@@ -1,1 +1,24 @@
-[]
+[
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "availability.coffee",
+  "uptime.coffee",
+  "insult.coffee",
+  "isup.coffee",
+  "email.coffee",
+  "fml.coffee",
+  "spotify.coffee",
+  "youtube-info.coffee",
+  "eardropping.coffee",
+  "remind.coffee",
+  "http-info.coffee",
+  "reload.coffee",
+  "ambush.coffee",
+  "reload.coffee",
+  "applause.coffee",
+  "thanks-obama.coffee",
+  "excuse.coffee",
+  "janky.coffee",
+  "reload.coffee",
+  "update.coffee"
+]
