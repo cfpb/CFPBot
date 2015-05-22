@@ -16,11 +16,19 @@ CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 
 ## Contributing
 
-Please read our general [contributing guidelines](CONTRIBUTING.md). To add functionality to CFPBot, first check the [hubot-scripts](https://github.com/github/hubot-scripts#hubot-scripts) organization for community-created scripts. These scripts can be loaded by adding their filename to [hubot-scripts.json](hubot-scripts.json).
+Please read our general [contributing guidelines](CONTRIBUTING.md). 
+To add functionality to CFPBot, first check the [hubot-scripts](https://github.com/github/hubot-scripts#hubot-scripts) 
+organization for community-created scripts.
+These scripts can be loaded by adding their filename to [hubot-scripts.json](hubot-scripts.json). 
 
-If you wish to write new scripts, fork this repo and add them to the `scripts` directory. Submit a pull request and they will be reviewed. If a new script requires environment variables, please make note of them in our internal documentation.
+If you wish to write new scripts, fork this repo and add them to the `scripts` directory. 
+Submit a pull request and they will be reviewed. 
+If a new script requires environment variables, please make note of them in our internal documentation.
+Add your changes to the [changelog](CHANGELOG.md) and bump the version accordingly.
 
-**IMPORTANT:** All git commits to this repo should have messages consisting of a single [emoji code](http://www.emoji-cheat-sheet.com/). Please select an emoji that is most applicable to the edits you have made to the codebase. PRs that fail to comply with this request will be rejected.
+**IMPORTANT:** All git commits to this repo should have messages consisting of a single [emoji code](http://www.emoji-cheat-sheet.com/). 
+Please select an emoji that is most applicable to the edits you have made to the codebase. 
+PRs that fail to comply with this request will be rejected.
 
 ### Running CFPBot Locally
 
@@ -137,8 +145,3 @@ repo.
 2. [LICENSE](LICENSE)
 3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
 
-## Credits and references
-
-1. Projects that inspired you
-2. Related projects
-3. Books, papers, talks, or other sources that have meaniginful impact or influence on this project
