@@ -3,7 +3,7 @@
 #
 # Dependencies:
 #   "githubot": "~0.4.0"
-#   "github-credentials"
+#   "underscore": "1.8.3"
 #
 # Configuration:
 #   HUBOT_GITHUB_API: GitHub endpoint, https://api.github.com for GitHub.com or
