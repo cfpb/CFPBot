@@ -48,4 +48,5 @@ author or the affirmer.
 ## Exceptions
 
 - [Hubot](https://hubot.github.com/)
+- [Treatyoself](https://gist.github.com/dieseltravis/7376518)
 

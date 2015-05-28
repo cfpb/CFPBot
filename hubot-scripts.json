@@ -16,5 +16,8 @@
   "excuse.coffee",
   "janky.coffee",
   "reload.coffee",
-  "update.coffee"
+  "update.coffee",
+  "meme_captain.coffee",
+  "kittens.coffee",
+  "spotify.coffee"
 ]
