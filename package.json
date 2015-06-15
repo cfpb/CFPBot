@@ -1,12 +1,13 @@
 {
   "name": "cfpbot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "author": "CFPB <tech@cfpb.gov>",
   "description": "CFPB's chat bot",
   "dependencies": {
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
+    "hubot-google-hangouts": "^0.7.1",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
@@ -17,8 +18,10 @@
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.2.0",
+    "hubot-twitter-search": "^1.0.3",
     "hubot-xmpp": "^0.1.12",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+    "underscore": "^1.8.3"
   },
   "engines": {
     "node": "0.10.x"
