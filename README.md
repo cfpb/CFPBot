@@ -4,13 +4,21 @@ CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 
 ## Installation
 
+### Install Node.js
+
+1. `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.2/install.sh | bash`
+1. `nvm install 0.10`
+1. `nvm use 0.10`
+
+### Install CFPBot
+
 1. `git clone https://github.com/cfpb/CFPBot.git`
 1. `cd CFPBot`
 1. `cp .env.sample .env`
 1. Edit `.env` appropriately.
-1. `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.2/install.sh | bash`
-1. `nvm install 0.10`
-1. `nvm use 0.10`
+
+### Running CFPBot
+
 1. `npm i -g forever`
 1. `forever -c /bin/sh ./start.sh`
 
@@ -36,9 +44,12 @@ You can test your hubot by running the following, however some plugins will not
 behave as expected unless the [environment variables](#configuration) they rely
 upon have been set.
 
-You can start CFPBot locally by running:
+You can start CFPBot locally by following the "Install CFPBot" steps above
+followed by:
 
-    % bin/hubot
+```
+$ ./bin/hubot
+```
 
 You'll see some start up output and a prompt:
 
