@@ -3,7 +3,7 @@
 #
 # Dependencies:
 #   "githubot": "~0.4.0"
-#   "underscore": "1.8.3"
+#   "github-credentials"
 #
 # Configuration:
 #   HUBOT_GITHUB_API: GitHub endpoint, https://api.github.com for GitHub.com or
@@ -60,7 +60,7 @@ module.exports = (robot) ->
                To associate your chat user with a github username, use #{robot.name} i am <your github username>
                To associate your chat user with a previously created oauth token, use #{robot.name} my oauth is <your oauth token
                To create a new oauth token, open a terminal and type:
-               curl -i #{process.env.HUBOT_GITHUB_API}/authorizations -d '{"scopes":["repo","gist"]}' -u "#{login}"
+               curl -i #{process.env.HUBOT_GITHUB_API}/authorizations -d '{"scopes":["repo","gist"], "note": "fetching my issues from within chat"}' -u "#{login}"
                  and then tell me about it using the 'my oauth is...' command above
 
                """
