@@ -36,12 +36,12 @@ module.exports = (robot) ->
     postSearch(msg, msg.match[2], msg.match[1])
 
   robot.respond /search (ghpage|ghpages|gh-pages) (.*)$/i, (msg) ->
-    postSearch(msg, msg.match[2], "gh page")
+    postSearch(msg, msg.match[2], "gh_page")
 
   # hate using this negative lookahead, but couldn't figure out a better way to get it to NOT trip this search
   # without this, searching specific sources such as hubot search wiki <term> would also trigger this response
   robot.respond /search (?!(next|wiki|readme|issue|ghpage|ghpages|gh-pages|help))\s?(.*)$/i, (msg) ->
-    postSearch(msg, msg.match[2], "wiki,readme,gh page")
+    postSearch(msg, msg.match[2], "wiki,readme,gh_page")
 
   robot.respond /search next$/i, (msg) ->
     if !hasSearch(msg)
