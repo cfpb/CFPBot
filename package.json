@@ -5,6 +5,7 @@
   "author": "CFPB <tech@cfpb.gov>",
   "description": "CFPB's chat bot",
   "dependencies": {
+    "cheerio": "^0.19.0",
     "chrono-node": "^1.0.6",
     "hubot": "^2.12.0",
     "hubot-ambush": "0.0.3",
@@ -25,6 +26,7 @@
     "hubot-youtube": "^0.1.2",
     "lodash": "^3.9.3",
     "moment": "^2.10.3",
+    "request": "~2.58.0",
     "underscore": "^1.8.3"
   },
   "engines": {
