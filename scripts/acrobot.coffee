@@ -16,7 +16,6 @@ module.exports = (robot) ->
   fs = require 'fs'
   acroPath = process.cwd()+'/acro.json'
   acroList = JSON.parse(fs.readFileSync(acroPath, 'utf8'))
-  # acroList = JSON.parse(fs.readFileSync(process.cwd()+'/projects/acrobot/acro.json', 'utf8'))
   
   robot.respond /define help$/i, (res) ->
     res.reply "
@@ -28,10 +27,6 @@ module.exports = (robot) ->
     if term of acroList
       res.reply buildAnswer(term) 
     else
-      # for hash in acroList
-      #   if hash.acro.toUpperCase() == term.toUpperCase()
-      #     res.reply buildAnswer(hash.acro)
-      #   else
       res.reply "Sorry, can't find #{term}"
 
   buildAnswer = (term) ->
