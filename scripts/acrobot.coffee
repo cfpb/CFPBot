@@ -35,5 +35,5 @@ module.exports = (robot) ->
     if acroObj.note
       answer = answer + " — " + acroObj.note
     if acroObj.link
-      answer = answer + " <a href='#{acroObj.link}'>[#{acroObj.link_label}]</a>"
+      answer = answer + " #{acroObj.link}"
     return answer
