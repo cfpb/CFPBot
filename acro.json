@@ -1754,6 +1754,13 @@
         "acro": "OCIO", 
         "name": "Office of the Chief Information Officer"
     }, 
+    "JA": {
+        "note": "our framework for automating Jenkins deployments", 
+        "link_label": "repo", 
+        "link": "https://github.com/cfpb/jenkins-automation", 
+        "acro": "JA", 
+        "name": "Jenkins Automation"
+    }, 
     "AWS": {
         "note": "", 
         "link_label": "", 
@@ -2391,6 +2398,13 @@
         "acro": "IEEE", 
         "name": "Institute of Electrical and Electronics Engineers"
     }, 
+    "YAML": {
+        "note": "a human-friendly data serialization language", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "YAML", 
+        "name": "YAML ain't markup language (a recursive acronym)"
+    }, 
     "FAR": {
         "note": "", 
         "link_label": "", 
@@ -2867,12 +2881,12 @@
         "acro": "AML", 
         "name": "anti-money-laundering"
     }, 
-    "OSP": {
-        "note": "central coordinator for draft reports", 
+    "HELOC": {
+        "note": "", 
         "link_label": "", 
         "link": "", 
-        "acro": "OSP", 
-        "name": "Office of Supervision Policy"
+        "acro": "HELOC", 
+        "name": "home equity line of credit"
     }, 
     "ROB": {
         "note": "a cybersecurity form", 
@@ -3301,13 +3315,6 @@
         "acro": "CIP", 
         "name": "critical infrastructure protection"
     }, 
-    "HELOC": {
-        "note": "", 
-        "link_label": "", 
-        "link": "", 
-        "acro": "HELOC", 
-        "name": "home equity line of credit"
-    }, 
     "CHANGEIQ": {
         "note": "a cybersecurity document", 
         "link_label": "", 
@@ -3461,6 +3468,13 @@
         "link": "http://www.csbs.org/Pages/default.aspx", 
         "acro": "CSBS", 
         "name": "Conference of State Bank Supervisors"
+    }, 
+    "OSP": {
+        "note": "central coordinator for draft reports", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OSP", 
+        "name": "Office of Supervision Policy"
     }, 
     "CFED": {
         "note": "", 
