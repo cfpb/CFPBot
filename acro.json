@@ -2349,6 +2349,13 @@
         "acro": "LOC", 
         "name": "line of credit OR Library of Congress"
     }, 
+    "DIG": {
+        "note": "a cross-Bureau governance body for vetting datasets before they are imported", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DIG", 
+        "name": "Data Intake Group"
+    }, 
     "FHA": {
         "note": "", 
         "link_label": "", 
