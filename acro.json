@@ -1174,6 +1174,13 @@
         "acro": "PKI", 
         "name": "public key infrastructure"
     }, 
+    "RMR": {
+        "note": "CFPB division", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMR", 
+        "name": "Research, Markets and Regulations"
+    }, 
     "CSO": {
         "note": "", 
         "link_label": "", 
@@ -1377,12 +1384,12 @@
         "acro": "HPA", 
         "name": "Homeowners Protection Act"
     }, 
-    "RMR": {
-        "note": "CFPB division", 
+    "DGB": {
+        "note": "oversees data intake, management, and disclosure", 
         "link_label": "", 
         "link": "", 
-        "acro": "RMR", 
-        "name": "Research, Markets and Regulations"
+        "acro": "DGB", 
+        "name": "Data Governance Board"
     }, 
     "RMP": {
         "note": "a cybersecurity term", 
@@ -1796,6 +1803,13 @@
         "acro": "OFE", 
         "name": "Office of Financial Education"
     }, 
+    "DASP": {
+        "note": "HUD program started in 2010 to sell off distressed mortgages", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DASP", 
+        "name": "Distressed Asset Stabilization Program"
+    }, 
     "IAA": {
         "note": "", 
         "link_label": "", 
@@ -2034,12 +2048,12 @@
         "acro": "EFT", 
         "name": "electronic funds transfer"
     }, 
-    "FEGLI": {
+    "NACARA": {
         "note": "", 
-        "link_label": "", 
-        "link": "", 
-        "acro": "FEGLI", 
-        "name": "Federal Employees' Group Life Insurance"
+        "link_label": "website", 
+        "link": "http://www.nacaraweb.org/", 
+        "acro": "NACARA", 
+        "name": "North American Collection Agency Regulatory Association"
     }, 
     "DDA": {
         "note": "", 
@@ -2054,6 +2068,13 @@
         "link": "", 
         "acro": "SAL", 
         "name": "security activities list"
+    }, 
+    "FEGLI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FEGLI", 
+        "name": "Federal Employees' Group Life Insurance"
     }, 
     "MOU": {
         "note": "", 
@@ -2811,6 +2832,13 @@
         "acro": "OD", 
         "name": "overdraft"
     }, 
+    "OA": {
+        "note": "an office in Consumer Education and Engagement", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OA", 
+        "name": "Older Americans"
+    }, 
     "DBA": {
         "note": "", 
         "link_label": "", 
@@ -3147,6 +3175,13 @@
         "acro": "PMC", 
         "name": "program management committee"
     }, 
+    "TEP": {
+        "note": "helps review technical aspects of CFPB contracts    ", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TEP", 
+        "name": "Technical Evaluation Panel"
+    }, 
     "PMO": {
         "note": "three bureau offices that coordinate project work", 
         "link_label": "", 
@@ -3272,6 +3307,13 @@
         "link": "https://sourceware.org/gdb/download/onlinedocs/", 
         "acro": "gdb", 
         "name": "GNU Project Debugger"
+    }, 
+    "WIP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WIP", 
+        "name": "work in progress"
     }, 
     "USB": {
         "note": "", 
