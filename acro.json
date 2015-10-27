@@ -13,12 +13,12 @@
         "acro": "CPL", 
         "name": "corporate performance and learning"
     }, 
-    "RFPA": {
-        "note": "", 
+    "CPM": {
+        "note": "a team in the Office of Cybersecurity", 
         "link_label": "", 
         "link": "", 
-        "acro": "RFPA", 
-        "name": "Right to Financial Privacy Act"
+        "acro": "CPM", 
+        "name": "Cybersecurity Program Management"
     }, 
     "CPO": {
         "note": "", 
@@ -55,6 +55,13 @@
         "acro": "SIM", 
         "name": "subscriber identity module"
     }, 
+    "RFPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFPA", 
+        "name": "Right to Financial Privacy Act"
+    }, 
     "UAT": {
         "note": "", 
         "link_label": "", 
@@ -75,6 +82,13 @@
         "link": "", 
         "acro": "PITA", 
         "name": "pain in the ass"
+    }, 
+    "SPA": {
+        "note": "a web app or page that generally loads just once", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SPA", 
+        "name": "single-page application"
     }, 
     "NPRM": {
         "note": "", 
@@ -194,6 +208,13 @@
         "link": "", 
         "acro": "RFID", 
         "name": "radio frequency identification"
+    }, 
+    "RFQ": {
+        "note": "a standard business bidding process", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFQ", 
+        "name": "request for quotation"
     }, 
     "BES": {
         "note": "", 
@@ -356,6 +377,13 @@
         "acro": "CTT", 
         "name": "compensatory time for travel"
     }, 
+    "DOM": {
+        "note": "", 
+        "link_label": "DOE", 
+        "link": "", 
+        "acro": "DOM", 
+        "name": "document object model"
+    }, 
     "DOC": {
         "note": "", 
         "link_label": "website", 
@@ -369,13 +397,6 @@
         "link": "", 
         "acro": "C&D", 
         "name": "cease and desist"
-    }, 
-    "DOE": {
-        "note": "", 
-        "link_label": "website", 
-        "link": "http://www.energy.gov/", 
-        "acro": "DOE", 
-        "name": "Department of Energy"
     }, 
     "CTA": {
         "note": "a standard feature of a CFPB web page or document", 
@@ -1217,11 +1238,11 @@
         "name": "Master Entity Database - Institution Profile"
     }, 
     "EA": {
-        "note": "CFPB division", 
+        "note": "", 
         "link_label": "", 
         "link": "", 
         "acro": "EA", 
-        "name": "External Affairs"
+        "name": "External Affairs or enterprise architecture"
     }, 
     "RFA": {
         "note": "", 
@@ -1551,6 +1572,13 @@
         "acro": "IPEDS", 
         "name": "Integrated Postsecondary Education Data System"
     }, 
+    "EMV": {
+        "note": "a global standard for credit cards with an authentication chip", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EMV", 
+        "name": "Europay, MasterCard and Visa"
+    }, 
     "ITS": {
         "note": "", 
         "link_label": "", 
@@ -1683,6 +1711,13 @@
         "link": "", 
         "acro": "E-QIP", 
         "name": ""
+    }, 
+    "ICAM": {
+        "note": "part of Security, Architecture & Engineering", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ICAM", 
+        "name": "Identity, Credential and Access Management"
     }, 
     "SLA": {
         "note": "", 
@@ -1837,6 +1872,13 @@
         "link": "http://www.realtor.org/", 
         "acro": "NAR", 
         "name": "National Association of Realtors"
+    }, 
+    "CM": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CM", 
+        "name": "configuration management"
     }, 
     "OIG": {
         "note": "not a single office; there are 73 federal offices of inspectors general", 
@@ -2132,13 +2174,6 @@
         "acro": "CoS", 
         "name": "chief of staff"
     }, 
-    "COR": {
-        "note": "", 
-        "link_label": "", 
-        "link": "", 
-        "acro": "COR", 
-        "name": "contracting officer representative"
-    }, 
     "SLC": {
         "note": "", 
         "link_label": "", 
@@ -2188,6 +2223,13 @@
         "acro": "ETL", 
         "name": "extract-transform-load"
     }, 
+    "FFELP": {
+        "note": "a troubled student loan program that was discontinued in 2010", 
+        "link_label": "FFIEC", 
+        "link": "", 
+        "acro": "FFELP", 
+        "name": "Federal Family Education Loan Program"
+    }, 
     "ACSSS": {
         "note": "", 
         "link_label": "website", 
@@ -2230,19 +2272,12 @@
         "acro": "FinARP", 
         "name": "Financial Agency Rotational Program"
     }, 
-    "CM": {
-        "note": "a cybersecurity term", 
-        "link_label": "", 
-        "link": "", 
-        "acro": "CM", 
-        "name": "configuration management"
-    }, 
-    "FFIEC": {
-        "note": "an interagency council", 
-        "link_label": "website", 
-        "link": "https://www.ffiec.gov/", 
-        "acro": "FFIEC", 
-        "name": "Federal Financial Institutions Examination Council"
+    "COPPA": {
+        "note": "requires parental consent when user testing involves children 13 and younger", 
+        "link_label": "web pageCOR", 
+        "link": "http://www.coppa.org/comply.htm", 
+        "acro": "COPPA", 
+        "name": "Children's Online Privacy Protection Act"
     }, 
     "CA": {
         "note": "", 
@@ -2460,6 +2495,13 @@
         "link": "http://www.gao.gov/", 
         "acro": "GAO", 
         "name": "Government Accountability Office"
+    }, 
+    "SOP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SOP", 
+        "name": "standard operating procedure"
     }, 
     "SOR": {
         "note": "", 
