@@ -379,7 +379,7 @@
     }, 
     "DOM": {
         "note": "", 
-        "link_label": "DOE", 
+        "link_label": "", 
         "link": "", 
         "acro": "DOM", 
         "name": "document object model"
@@ -397,6 +397,13 @@
         "link": "", 
         "acro": "C&D", 
         "name": "cease and desist"
+    }, 
+    "DOE": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.energy.gov/", 
+        "acro": "DOE", 
+        "name": "Department of Energy"
     }, 
     "CTA": {
         "note": "a standard feature of a CFPB web page or document", 
