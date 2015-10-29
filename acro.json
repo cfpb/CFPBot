@@ -477,6 +477,7 @@
     }, 
     "CISO": {
         "note": "", 
+        "link_label": "", 
         "link": "", 
         "acro": "CISO", 
         "name": "chief information security officer"
@@ -1183,10 +1184,17 @@
     }, 
     "FFELP": {
         "note": "a troubled student loan program that was discontinued in 2010", 
-        "link_label": "FFIEC", 
+        "link_label": "", 
         "link": "", 
         "acro": "FFELP", 
         "name": "Federal Family Education Loan Program"
+    }, 
+    "FFIEC": {
+        "note": "an interagency council", 
+        "link_label": "website", 
+        "link": "https://www.ffiec.gov/", 
+        "acro": "FFIEC", 
+        "name": "Federal Financial Institutions Examination Council"
     }, 
     "FHA": {
         "note": "", 
@@ -1743,10 +1751,17 @@
     }, 
     "IPV4": {
         "note": "the most widely used internet address protocol, but it's running out of addresses", 
-        "link_label": "IPv6", 
+        "link_label": "", 
         "link": "", 
         "acro": "IPv4", 
         "name": "Internet Protocol version 4"
+    }, 
+    "IPV6": {
+        "note": "an internet address protocol to allow for an almost unlimited number of web addresses", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IPv6", 
+        "name": "Internet Protocol version 6"
     }, 
     "IQ": {
         "note": "", 
@@ -1769,11 +1784,12 @@
         "acro": "IRB", 
         "name": "Investment Review Board"
     }, 
-    "IRS: INTERNAL REVENUE SERVICE": {
-        "note": "http://www.irs.gov/", 
-        "link": "website", 
-        "acro": "IRS: Internal Revenue Service", 
-        "name": ""
+    "IRS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.irs.gov/", 
+        "acro": "IRS", 
+        "name": "Internal Revenue Service"
     }, 
     "IS": {
         "note": "a cybersecurity term", 
@@ -2120,10 +2136,17 @@
     }, 
     "NCES": {
         "note": "a part of the Department of Education", 
-        "link_label": "NCUA", 
+        "link_label": "", 
         "link": "", 
         "acro": "NCES", 
         "name": "National Center for Education Statistics"
+    }, 
+    "NCUA": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.ncua.gov/Pages/default.aspx", 
+        "acro": "NCUA", 
+        "name": "National Credit Union Administration"
     }, 
     "NEAT": {
         "note": "", 
@@ -2986,6 +3009,13 @@
         "acro": "ROB", 
         "name": "rules of behavior"
     }, 
+    "ROI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ROI", 
+        "name": "return on investment"
+    }, 
     "ROT": {
         "note": "content strategy term", 
         "link_label": "", 
@@ -3107,10 +3137,17 @@
     }, 
     "SCOTUS": {
         "note": "", 
-        "link_label": "SCRA", 
+        "link_label": "", 
         "link": "", 
         "acro": "SCOTUS", 
         "name": "Supreme Court of the United States"
+    }, 
+    "SCRA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCRA", 
+        "name": "Servicemembers Civil Relief Act of 2003"
     }, 
     "SE": {
         "note": "part of T&I or a a cybersecurity job", 
