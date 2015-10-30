@@ -1,4 +1,4 @@
-# CFPBot
+# CFPBot [![Build Status](https://travis-ci.org/cfpb/CFPBot.svg)](https://travis-ci.org/cfpb/CFPBot)
 
 CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 
