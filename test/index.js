@@ -15,4 +15,4 @@ request('https://raw.githubusercontent.com/github/gemoji/master/db/emoji.json', 
     console.error('Commit message is not a single emoji!');
     process.exit(1);
   }
-})
+});
