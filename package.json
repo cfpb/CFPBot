@@ -30,12 +30,13 @@
     "underscore": "^1.8.3"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.12.x"
   },
   "scripts": {
     "test": "node test"
   },
   "devDependencies": {
+    "nodegit": "nodegit/nodegit#master",
     "request": "^2.58.0"
   }
 }
