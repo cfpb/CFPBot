@@ -34,5 +34,8 @@
   },
   "scripts": {
     "test": "node test"
+  },
+  "devDependencies": {
+    "request": "^2.58.0"
   }
 }
