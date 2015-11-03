@@ -1,0 +1,3635 @@
+{
+    "18F": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "https://18f.gsa.gov/", 
+        "acro": "18F", 
+        "name": "a digital services delivery group in the GSA; the name reflects the office location at 18th and F"
+    }, 
+    "AAR": {
+        "note": "a PMO process, often called post-mortem, for reviewing a finished project", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AAR", 
+        "name": "after-action review"
+    }, 
+    "AARMR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AARMR", 
+        "name": "American Association of Residential Mortgage Regulators"
+    }, 
+    "AC": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AC", 
+        "name": "access control"
+    }, 
+    "ACL": {
+        "note": "an Amazon configuration that governs access to an s3 resource", 
+        "link_label": "web page", 
+        "link": "http://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html", 
+        "acro": "ACL", 
+        "name": "access control list"
+    }, 
+    "ACSSS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.acsss.org/", 
+        "acro": "ACSSS", 
+        "name": "American Council of State Savings Supervisors"
+    }, 
+    "ADR": {
+        "note": "a process that uses a neutral third party to help resolve workplace conflicts", 
+        "link_label": "wiki page", 
+        "link": "http://team.  /wiki/index.php/Alternative_Dispute_Resolution", 
+        "acro": "ADR", 
+        "name": "alternative dispute resolution"
+    }, 
+    "AES": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AES", 
+        "name": "Annual Employee Survey"
+    }, 
+    "AFR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AFR", 
+        "name": "Americans for Financial Reform"
+    }, 
+    "AGPL": {
+        "note": "a GNU free software license", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AGPL", 
+        "name": "Affero General Public License"
+    }, 
+    "AI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AI", 
+        "name": "artificial intelligence"
+    }, 
+    "AIGA": {
+        "note": "host of an annual design conference", 
+        "link_label": "website", 
+        "link": "http://www.aiga.org/", 
+        "acro": "AIGA", 
+        "name": "American Institute of Graphic Arts"
+    }, 
+    "ALD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ALD", 
+        "name": "assistant litigation deputy"
+    }, 
+    "AO": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AO", 
+        "name": "authorizing official"
+    }, 
+    "AML": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AML", 
+        "name": "anti-money-laundering"
+    }, 
+    "ANACI": {
+        "note": "background check for new federal employees", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ANACI", 
+        "name": "access national agency check with inquiries"
+    }, 
+    "API": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "API", 
+        "name": "application programming interface"
+    }, 
+    "ANPR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ANPR", 
+        "name": "advance notice of proposed rulemaking"
+    }, 
+    "APR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "APR", 
+        "name": "annual percentage rate"
+    }, 
+    "APY": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "APY", 
+        "name": "annual percentage yield"
+    }, 
+    "ARC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ARC", 
+        "name": "Action Review Committee"
+    }, 
+    "ARM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ARM", 
+        "name": "adjustable-rate mortgage"
+    }, 
+    "ASV": {
+        "note": "a proposed CFPB release standard for software security", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ASV", 
+        "name": "application security verification"
+    }, 
+    "AT": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AT", 
+        "name": "awareness and training"
+    }, 
+    "ATF": {
+        "note": "just across from the NOMA station", 
+        "link_label": "website", 
+        "link": "https://www.atf.gov/", 
+        "acro": "ATF", 
+        "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives"
+    }, 
+    "ATM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ATM", 
+        "name": "automated teller machine"
+    }, 
+    "ATO": {
+        "note": "a cybersecurity form", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ATO", 
+        "name": "authorization to operate"
+    }, 
+    "ATR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ATR", 
+        "name": "ability to repay"
+    }, 
+    "AWS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "AWS", 
+        "name": "Amazon Web Services OR alternative work schedule"
+    }, 
+    "BAH": {
+        "note": "a term used in calculating college costs and a nontaxable part of military pay", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BAH", 
+        "name": "basic allowance for housing"
+    }, 
+    "BDD": {
+        "note": "a plain-language-driven coding scheme used in many of our browser and security tests", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BDD", 
+        "name": "behavior-driven development"
+    }, 
+    "BES": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BES", 
+        "name": "Blackberry Enterprise Server"
+    }, 
+    "BEWD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BEWD", 
+        "name": "back-end web developer"
+    }, 
+    "BFS": {
+        "note": "handles procurement, licensing; replaced the Bureau of Public Debt", 
+        "link_label": "website", 
+        "link": "https://www.fiscal.treasury.gov/", 
+        "acro": "BFS", 
+        "name": "Bureau of the Fiscal Service"
+    }, 
+    "BI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BI", 
+        "name": "Business Intelligence"
+    }, 
+    "BPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BPA", 
+        "name": "blanket purchase agreement OR business process analyst"
+    }, 
+    "BPD": {
+        "note": "replaced by the Bureau of the Fiscal Service", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BPD", 
+        "name": "Bureau of Public Debt"
+    }, 
+    "BOAR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BOAR", 
+        "name": "Business Operation Analytics and Reporting"
+    }, 
+    "BSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BSA", 
+        "name": "Bank Secrecy Act"
+    }, 
+    "C&D": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "C&D", 
+        "name": "cease and desist"
+    }, 
+    "CA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CA", 
+        "name": "certification authority"
+    }, 
+    "CAMELS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CAMELS", 
+        "name": "capital, asset quality, management, earnings, liquidity, sensitivity to market risk"
+    }, 
+    "CAB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CAB", 
+        "name": "Consumer Advisory Board"
+    }, 
+    "CAO": {
+        "note": "head of Administrative Operations", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CAO", 
+        "name": "chief administrative officer"
+    }, 
+    "CARD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CARD", 
+        "name": "Credit Card Responsibility Disclosure Act"
+    }, 
+    "CBA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CBA", 
+        "name": "collective bargaining agreement"
+    }, 
+    "CATER": {
+        "note": "favored software release model", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CATeR", 
+        "name": "create, assemble, test, release"
+    }, 
+    "CBAC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CBAC", 
+        "name": "Community Bank Advisory Council"
+    }, 
+    "CCB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CCB", 
+        "name": "Change Control Board OR Configuration Control Board"
+    }, 
+    "CCRT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CCRT", 
+        "name": "Congressional Coordination and Response Team"
+    }, 
+    "CDO": {
+        "note": "office comprises three teams: Data, Privacy and PRA", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CDO", 
+        "name": "Chief Data Office OR Chief Data Officer"
+    }, 
+    "CCDB": {
+        "note": "", 
+        "link_label": "web page", 
+        "link": "http://www.consumerfinance.gov/complaintdatabase/", 
+        "acro": "CCDB", 
+        "name": "Consumer Complaint Database"
+    }, 
+    "CDPP": {
+        "note": "pilot plan for spreading the word about detail opporunities", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CDPP", 
+        "name": "centralized detail posting process"
+    }, 
+    "CE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CE", 
+        "name": "Consumer Engagement"
+    }, 
+    "CEE": {
+        "note": "division serving four special populations", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CEE", 
+        "name": "Consumer Education and Engagement"
+    }, 
+    "CEP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CEP", 
+        "name": "Consumer Experience Platform"
+    }, 
+    "CERT": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CERT", 
+        "name": "computer emergency response team"
+    }, 
+    "CFA": {
+        "note": "nonprofit devoted to improving effective government technology and design", 
+        "link_label": "website", 
+        "link": "http://www.codeforamerica.org/", 
+        "acro": "CfA", 
+        "name": "Code for America"
+    }, 
+    "CFED": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CFED", 
+        "name": "Corporation for Enterprise Development"
+    }, 
+    "CFPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CFPA", 
+        "name": "Consumer Financial Protection Act"
+    }, 
+    "CFPB": {
+        "note": "created by the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010", 
+        "link_label": "website", 
+        "link": "http://www.consumerfinance.gov/", 
+        "acro": "CFPB", 
+        "name": "Consumer Financial Protection Bureau"
+    }, 
+    "CFO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CFO", 
+        "name": "chief financial officer"
+    }, 
+    "CFR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CFR", 
+        "name": "Code of Federal Regulations"
+    }, 
+    "CGE": {
+        "note": "CFPB's travel-booking system, also known as Concur or Concursolutions", 
+        "link_label": "website", 
+        "link": "https://cge.concursolutions.com/", 
+        "acro": "CGE", 
+        "name": "Concur Government Edition"
+    }, 
+    "CHANGEIQ": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ChangeIQ", 
+        "name": "change identification questionnaire"
+    }, 
+    "CHCO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CHCO", 
+        "name": "chief human capital officer"
+    }, 
+    "CID": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CID", 
+        "name": "Civil Investigative Demand"
+    }, 
+    "CIO": {
+        "note": "head of T&I", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CIO", 
+        "name": "chief information officer"
+    }, 
+    "CISO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CISO", 
+        "name": "chief information security officer"
+    }, 
+    "CIQ": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CIQ", 
+        "name": "change identification questionnaire"
+    }, 
+    "CIP": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CIP", 
+        "name": "critical infrastructure protection"
+    }, 
+    "CKAN": {
+        "note": "an open-source data portal framework used at CFPB", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CKAN", 
+        "name": "Comprehensive Knowledge Archive Network"
+    }, 
+    "CM": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CM", 
+        "name": "configuration management"
+    }, 
+    "CMP": {
+        "note": "first is a cybersecurity term; second is a legal term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CMP", 
+        "name": "configuration management plan OR civil money penalty"
+    }, 
+    "CMS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CMS", 
+        "name": "content management system OR compliance management system"
+    }, 
+    "COB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COB", 
+        "name": "close of business"
+    }, 
+    "COLA": {
+        "note": "used in calculating Social Security benefits", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COLA", 
+        "name": "cost-of-living adjustment"
+    }, 
+    "COLLAB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COLLAB", 
+        "name": "our enterprise Google environment OR the CFPB intranet OR a public CFPB Django project for reusable apps"
+    }, 
+    "CONOPS": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CONOPS", 
+        "name": "concept of operations"
+    }, 
+    "COO": {
+        "note": "head of Operations Division", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COO", 
+        "name": "chief operating officer"
+    }, 
+    "COOP": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COOP", 
+        "name": "continuity of operations plan"
+    }, 
+    "COPPA": {
+        "note": "requires parental consent when user testing involves children 13 and younger", 
+        "link_label": "web page", 
+        "link": "http://www.coppa.org/comply.htm", 
+        "acro": "COPPA", 
+        "name": "Children's Online Privacy Protection Act"
+    }, 
+    "COR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COR", 
+        "name": "contracting officer representative"
+    }, 
+    "CORS": {
+        "note": "rules that browsers follow to control imports from external websites", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CORS", 
+        "name": "Cross-Origin Resource Sharing"
+    }, 
+    "COS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CoS", 
+        "name": "chief of staff"
+    }, 
+    "COTR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COTR", 
+        "name": "contracting officer's technical representative"
+    }, 
+    "CP": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CP", 
+        "name": "contingency planning"
+    }, 
+    "CPIC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CPIC", 
+        "name": "capital planning and investment control"
+    }, 
+    "CPL": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CPL", 
+        "name": "corporate performance and learning"
+    }, 
+    "CPM": {
+        "note": "a team in the Office of Cybersecurity", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CPM", 
+        "name": "Cybersecurity Program Management"
+    }, 
+    "CPO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CPO", 
+        "name": "chief privacy officer OR chief procurement officer"
+    }, 
+    "CPU": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CPU", 
+        "name": "central processing unit"
+    }, 
+    "CR": {
+        "note": "one is a CFPB office, the other a software delivery document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CR", 
+        "name": "Consumer Response OR change request"
+    }, 
+    "CRA": {
+        "note": "enacted in 1977", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CRA", 
+        "name": "Community Reinvestment Act"
+    }, 
+    "CRCM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CRCM", 
+        "name": "certified regulatory compliance manager"
+    }, 
+    "CRM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CRM", 
+        "name": "customer (or contact) relationship management"
+    }, 
+    "CSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CSA", 
+        "name": "Continued Service Agreement"
+    }, 
+    "CRUD": {
+        "note": "standard database interactions", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CRUD", 
+        "name": "create-read-update-delete"
+    }, 
+    "CSBS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.csbs.org/Pages/default.aspx", 
+        "acro": "CSBS", 
+        "name": "Conference of State Bank Supervisors"
+    }, 
+    "CSI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CSI", 
+        "name": "confidential supervisory information"
+    }, 
+    "CSIRT": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CSIRT", 
+        "name": "computer security incident response team"
+    }, 
+    "CSO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CSO", 
+        "name": "chief strategy officer"
+    }, 
+    "CSRS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CSRS", 
+        "name": "Civil Service Retirement System"
+    }, 
+    "CTA": {
+        "note": "a standard feature of a CFPB web page or document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CTA", 
+        "name": "call to action"
+    }, 
+    "CTSP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CTSP", 
+        "name": "CFPB Transit Subsidy Program"
+    }, 
+    "CTT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CTT", 
+        "name": "compensatory time for travel"
+    }, 
+    "CUAC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CUAC", 
+        "name": "Credit Union Advisory Council"
+    }, 
+    "CUI": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CUI", 
+        "name": "controlled unclassified information"
+    }, 
+    "D&D": {
+        "note": "a department within Technology and Innovation", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "D&D", 
+        "name": "Design and Development"
+    }, 
+    "DBA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DBA", 
+        "name": "database administrator OR doing business as"
+    }, 
+    "DASP": {
+        "note": "HUD program started in 2010 to sell off distressed mortgages", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DASP", 
+        "name": "Distressed Asset Stabilization Program"
+    }, 
+    "DDA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DDA", 
+        "name": "demand deposit account"
+    }, 
+    "DDOS": {
+        "note": "an orchestrated attempt to overwhelm a website with requests", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DDOS", 
+        "name": "distributed denial of service"
+    }, 
+    "DE": {
+        "note": "part of T&I", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DE", 
+        "name": "Data Engineering"
+    }, 
+    "DEP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DEP", 
+        "name": "Delayed Entry Program"
+    }, 
+    "DFA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DFA", 
+        "name": "director's financial analyst"
+    }, 
+    "DFAP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DFAP", 
+        "name": "Director's Financial Analyst Program"
+    }, 
+    "DGB": {
+        "note": "oversees data intake, management, and disclosure", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DGB", 
+        "name": "Data Governance Board"
+    }, 
+    "DI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DI", 
+        "name": "depository institution"
+    }, 
+    "DICE": {
+        "note": "an advisory group in the Office of Minority and Women Inclusion", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DICE", 
+        "name": "Diversity and Inclusion Council of Employees"
+    }, 
+    "DIG": {
+        "note": "a cross-Bureau governance body for vetting datasets before they are imported", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DIG", 
+        "name": "Data Intake Group"
+    }, 
+    "DISA STIG": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DISA STIG", 
+        "name": "Defense Information Systems Agency Security Technical Implementation Guide"
+    }, 
+    "DO": {
+        "note": "original host of CFPB's infrastructure", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DO", 
+        "name": "Departmental Office of the Treasury"
+    }, 
+    "DOC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "https://www.commerce.gov/", 
+        "acro": "DOC", 
+        "name": "Department of Commerce"
+    }, 
+    "DOM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DOM", 
+        "name": "document object model"
+    }, 
+    "DOE": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.energy.gov/", 
+        "acro": "DOE", 
+        "name": "Department of Energy"
+    }, 
+    "DNS": {
+        "note": "the naming system used for internet addresses", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DNS", 
+        "name": "Domain Name System"
+    }, 
+    "DMT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DMT", 
+        "name": "Digital Media Team"
+    }, 
+    "DOJ": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.justice.gov/", 
+        "acro": "DOJ", 
+        "name": "Department of Justice"
+    }, 
+    "DRY": {
+        "note": "a noble goal for writers of code and other things", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DRY", 
+        "name": "don't repeat yourself"
+    }, 
+    "DSS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DSS", 
+        "name": "document submission standards"
+    }, 
+    "DTI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "DTI", 
+        "name": "debt to income (ratio)"
+    }, 
+    "E2E": {
+        "note": "a software testing term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "E2E", 
+        "name": "end-to-end"
+    }, 
+    "EA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EA", 
+        "name": "External Affairs OR enterprise architecture"
+    }, 
+    "ED": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.ed.gov/", 
+        "acro": "ED", 
+        "name": "Department of Education"
+    }, 
+    "EAP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EAP", 
+        "name": "Employee Assistance Program OR enforcement action process"
+    }, 
+    "ECC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ECC", 
+        "name": "Excellence through Communication & Collaboration Program"
+    }, 
+    "ECEF": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ECEF", 
+        "name": "electronic continuing exam folders"
+    }, 
+    "ECMC": {
+        "note": "nonprofit student-loan guarantor and debt collector for Dept. of Eductaion", 
+        "link_label": "website", 
+        "link": "https://www.ecmc.org/Group/", 
+        "acro": "ECMC", 
+        "name": "Educational Credit Management Corporation"
+    }, 
+    "ECOA": {
+        "note": "law containing Regulation B", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ECOA", 
+        "name": "Equal Credit Opportunity Act,"
+    }, 
+    "E-CFR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "E-CFR", 
+        "name": "Electronic Code of Federal Regulations"
+    }, 
+    "ECPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ECPA", 
+        "name": "Electronic Communications Privacy Act"
+    }, 
+    "ECT": {
+        "note": "a Technology & Innovation working group", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ECT", 
+        "name": "enterprise collaboration tools"
+    }, 
+    "EEOC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.eeoc.gov/", 
+        "acro": "EEOC", 
+        "name": "Equal Employment Opportunity Commission"
+    }, 
+    "EFIP": {
+        "note": "a term used in a 2015 legal settlement with for-profit colleges; it refers to a Paying for College tool", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EFIP", 
+        "name": "Electronic Financial Impact Disclosure"
+    }, 
+    "EFT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EFT", 
+        "name": "electronic funds transfer"
+    }, 
+    "EIC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EIC", 
+        "name": "examiner in charge"
+    }, 
+    "ELK": {
+        "note": "a tech stack for capturing, searching and visualizing software logs", 
+        "link_label": "web page", 
+        "link": "https://www.elastic.co/webinars/introduction-elk-stack", 
+        "acro": "ELK", 
+        "name": "Elasticsearch, Logstash & Kibana"
+    }, 
+    "EMV": {
+        "note": "a global standard for credit cards with an authentication chip", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EMV", 
+        "name": "Europay, MasterCard and Visa"
+    }, 
+    "EOPF": {
+        "note": "maintained by the Office of Personnel Management", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "eOPF", 
+        "name": "electronic Official Personnel File"
+    }, 
+    "E-QIP": {
+        "note": "background checks", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "E-QIP", 
+        "name": ""
+    }, 
+    "EPD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EPD", 
+        "name": "early payment defaults"
+    }, 
+    "EPP": {
+        "note": "hosted by the National Finance Center", 
+        "link_label": "website", 
+        "link": "https://www.nfc.usda.gov/epps/", 
+        "acro": "EPP", 
+        "name": "employee personal page"
+    }, 
+    "ES": {
+        "note": "a search server based on Lucene", 
+        "link_label": "website", 
+        "link": "https://www.elastic.co/products/elasticsearch", 
+        "acro": "ES", 
+        "name": "Elasticsearch"
+    }, 
+    "ESI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ESI", 
+        "name": "electronically stored information"
+    }, 
+    "ET": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ET", 
+        "name": "external training"
+    }, 
+    "ETIL": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ETIL", 
+        "name": "early truth in lending"
+    }, 
+    "ETL": {
+        "note": "a common data-acquisition process", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ETL", 
+        "name": "extract-transform-load"
+    }, 
+    "FACTA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FACTA", 
+        "name": " Fair and Accurate Credit Transaction Act"
+    }, 
+    "FAR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FAR", 
+        "name": "Federal Acquisition Regulation"
+    }, 
+    "FCRA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FCRA", 
+        "name": "Fair Credit Reporting Act"
+    }, 
+    "FDCPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FDCPA", 
+        "name": "Fair Debt Collection Practices Act"
+    }, 
+    "FDIC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "https://www.fdic.gov/", 
+        "acro": "FDIC", 
+        "name": "Federal Deposit Insurance Corporation"
+    }, 
+    "FEDVIP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FEDVIP", 
+        "name": "Federal Employees Dental and Vision Insurance Program"
+    }, 
+    "FEGLI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FEGLI", 
+        "name": "Federal Employees' Group Life Insurance"
+    }, 
+    "FEHB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FEHB", 
+        "name": "Federal Employee Health Benefit Plan"
+    }, 
+    "FEPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FEPA", 
+        "name": "Federal Employees Pay Act"
+    }, 
+    "FERS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FERS", 
+        "name": "Federal Employees Retirement System"
+    }, 
+    "FEWD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FEWD", 
+        "name": "front-end web developer"
+    }, 
+    "FFELP": {
+        "note": "a troubled student loan program that was discontinued in 2010", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FFELP", 
+        "name": "Federal Family Education Loan Program"
+    }, 
+    "FFIEC": {
+        "note": "an interagency council", 
+        "link_label": "website", 
+        "link": "https://www.ffiec.gov/", 
+        "acro": "FFIEC", 
+        "name": "Federal Financial Institutions Examination Council"
+    }, 
+    "FHA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FHA", 
+        "name": "Federal Housing Administration"
+    }, 
+    "FHFA": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.fhfa.gov/", 
+        "acro": "FHFA", 
+        "name": "Federal Housing Finance Agency"
+    }, 
+    "FHLMC": {
+        "note": "Freddie Mac", 
+        "link_label": "website", 
+        "link": "http://www.freddiemac.com/", 
+        "acro": "FHLMC", 
+        "name": "Federal Home Loan Mortgage Corporation"
+    }, 
+    "FI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FI", 
+        "name": "financial institution"
+    }, 
+    "FICO": {
+        "note": "the top U.S. credit score provider", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FICO", 
+        "name": "Fair Isaac and Company"
+    }, 
+    "FIL": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FIL", 
+        "name": "Federal Institutions Letter"
+    }, 
+    "FINARP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FinARP", 
+        "name": "Financial Agency Rotational Program"
+    }, 
+    "FINRA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FINRA", 
+        "name": "Financial Industry Regulatory Authority"
+    }, 
+    "FINCEN": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.fincen.gov/", 
+        "acro": "FinCEN", 
+        "name": "Financial Crime Enforcement Network"
+    }, 
+    "FIPS": {
+        "note": "security standard used to accredit cryptographic modules; also refers to standard codes for geographic areas", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FIPS", 
+        "name": "Federal Information Processing Standard"
+    }, 
+    "FIRREA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FIRREA", 
+        "name": "Financial Institutions Reform, Recovery, & Enforcement Act of 1989"
+    }, 
+    "FISMA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FISMA", 
+        "name": "Federal Information Security Management Act"
+    }, 
+    "FJ": {
+        "note": "cfgov refresh project", 
+        "link_label": "beta site", 
+        "link": "http://beta.consumerfinance.gov/", 
+        "acro": "FJ", 
+        "name": "Flapjack"
+    }, 
+    "FL": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FL", 
+        "name": "Fair Lending"
+    }, 
+    "FLEC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FLEC", 
+        "name": "Financial Literacy & Education Commission"
+    }, 
+    "FLID": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FLID", 
+        "name": "Fair Lending Initial Determination Memo"
+    }, 
+    "FLSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FLSA", 
+        "name": "Fair Labor Standards Act"
+    }, 
+    "FLTCIP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FLTCIP", 
+        "name": "Federal Long Term Care Insurance Program"
+    }, 
+    "FM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FM", 
+        "name": "field manager"
+    }, 
+    "FMI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FMI", 
+        "name": "field and market intelligence"
+    }, 
+    "FMLA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FMLA", 
+        "name": "Family Medical Leave Act"
+    }, 
+    "FNMA": {
+        "note": "Fannie Mae", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FNMA", 
+        "name": "Federal National Mortgage Association"
+    }, 
+    "FOIA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FOIA", 
+        "name": "Freedom of Information Act"
+    }, 
+    "FOSS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FOSS", 
+        "name": "free and open-source software"
+    }, 
+    "FOUO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FOUO", 
+        "name": "for official use only"
+    }, 
+    "FPDS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FPDS", 
+        "name": "Federal Procurement Data System"
+    }, 
+    "FRB": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.federalreserve.gov/", 
+        "acro": "FRB", 
+        "name": "Federal Reserve Board"
+    }, 
+    "FRC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FRC", 
+        "name": "Federal Records Center"
+    }, 
+    "FSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FSA", 
+        "name": "Flexible Spending Account OR Federal Student Aid Office"
+    }, 
+    "FSOC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FSOC", 
+        "name": "Financial Stability Oversight Council"
+    }, 
+    "FTC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "https://www.ftc.gov/", 
+        "acro": "FTC", 
+        "name": "Federal Trade Commission"
+    }, 
+    "FTP": {
+        "note": "a standard network protocol for the transfer of files", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FTP", 
+        "name": "File Transfer Protocol"
+    }, 
+    "FYQ1": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FYQ1", 
+        "name": "fiscal year, first quarter"
+    }, 
+    "GAO": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.gao.gov/", 
+        "acro": "GAO", 
+        "name": "Government Accountability Office"
+    }, 
+    "GDB": {
+        "note": "", 
+        "link_label": "online docs", 
+        "link": "https://sourceware.org/gdb/download/onlinedocs/", 
+        "acro": "gdb", 
+        "name": "GNU Project Debugger"
+    }, 
+    "GFE": {
+        "note": "a RESPA Disclosure", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GFE", 
+        "name": "Good Faith Estimate"
+    }, 
+    "GIS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GIS", 
+        "name": "Geographic Information Systems"
+    }, 
+    "GLBA": {
+        "note": "pronounced \"glibba\"", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GLBA", 
+        "name": "Gramm-Leach-Bliley Act of 1999"
+    }, 
+    "GNMA": {
+        "note": "Ginnie Mae", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GNMA", 
+        "name": "Government National Mortgage Association"
+    }, 
+    "GPRA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GPRA", 
+        "name": "Government Performance and Results Act"
+    }, 
+    "GSA": {
+        "note": "parent of 18F", 
+        "link_label": "website", 
+        "link": "http://www.gsa.gov/portal/category/100000", 
+        "acro": "GSA", 
+        "name": "General Services Administration"
+    }, 
+    "GSE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GSE", 
+        "name": "government sponsored enterprise"
+    }, 
+    "GSS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GSS", 
+        "name": "General Support System"
+    }, 
+    "HECM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HECM", 
+        "name": "home equity conversion mortgage"
+    }, 
+    "HEL": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HEL", 
+        "name": "home equity loan"
+    }, 
+    "HELOC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HELOC", 
+        "name": "home equity line of credit"
+    }, 
+    "HMDA": {
+        "note": "overseen by the CFPB", 
+        "link_label": "web page", 
+        "link": "https://www.ffiec.gov/hmda/default.htm", 
+        "acro": "HMDA", 
+        "name": "Home Mortgage Disclosure Act"
+    }, 
+    "HOEPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HOEPA", 
+        "name": "Home Ownership and Equity Protection Act"
+    }, 
+    "HPA": {
+        "note": "passed in 1998", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HPA", 
+        "name": "Homeowners Protection Act"
+    }, 
+    "HPML": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HPML", 
+        "name": "higher priced mortgage loan"
+    }, 
+    "HQ": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HQ", 
+        "name": "headquarters"
+    }, 
+    "HSPD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HSPD", 
+        "name": "Homeland Security Presidential Directive"
+    }, 
+    "HTTP": {
+        "note": "the main communication protocol for the World Wide Web", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HTTP", 
+        "name": "Hypertext Transfer Protocol"
+    }, 
+    "HTTPS": {
+        "note": "a version of HTTP that exchanges encrypted communications", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HTTPS", 
+        "name": "HTTP Secure"
+    }, 
+    "HUD": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.hud.gov/", 
+        "acro": "HUD", 
+        "name": "Department of Housing and Urban Development"
+    }, 
+    "HVAC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HVAC", 
+        "name": "heating, ventilating, and air conditioning"
+    }, 
+    "IA": {
+        "note": "first is software term, second is a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IA", 
+        "name": "information architecture OR identification and authentication"
+    }, 
+    "IAA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IAA", 
+        "name": "inter-agency agreement"
+    }, 
+    "IAM": {
+        "note": "an Amazon AWS term", 
+        "link_label": "web page", 
+        "link": "https://aws.amazon.com/iam/", 
+        "acro": "IAM", 
+        "name": "Identity and Access Management"
+    }, 
+    "ICAM": {
+        "note": "part of Security, Architecture & Engineering", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ICAM", 
+        "name": "Identity, Credential and Access Management"
+    }, 
+    "ICCT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ICCT", 
+        "name": "Intergovernment Complaint Coordination Team"
+    }, 
+    "ICR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ICR", 
+        "name": "inflight change request"
+    }, 
+    "IDIQ": {
+        "note": "a type of federal purchase contract", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IDIQ", 
+        "name": "indefinite delivery indefinite quantity"
+    }, 
+    "IDP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IDP", 
+        "name": "Individual Development Plan"
+    }, 
+    "IDS": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IDS", 
+        "name": "intrusion detection system"
+    }, 
+    "IEEE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IEEE", 
+        "name": "Institute of Electrical and Electronics Engineers"
+    }, 
+    "IES": {
+        "note": "part of the National Center for Education Statistics at the Department of Eductaion", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IES", 
+        "name": "Institute of Education Sciences"
+    }, 
+    "IG": {
+        "note": "there are 73 federal offices of inspectors general", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IG", 
+        "name": "inspector general"
+    }, 
+    "IGA": {
+        "note": "part of the External Affairs Division", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IGA", 
+        "name": "Office of Intergovernmental Affairs"
+    }, 
+    "ILS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ILS", 
+        "name": "interstate land sales"
+    }, 
+    "ILSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ILSA", 
+        "name": "Interstate Land Sales Full Disclosure Act"
+    }, 
+    "IMF": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IMF", 
+        "name": "Inside Mortgage Finance OR International Monetary Fund"
+    }, 
+    "IMOD": {
+        "note": "production operations role", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IMoD", 
+        "name": "incident manager on duty"
+    }, 
+    "IO": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IO", 
+        "name": "information owner"
+    }, 
+    "IP": {
+        "note": "the main internet communications protocol; a web address", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IP", 
+        "name": "Internet Protocol"
+    }, 
+    "IPEDS": {
+        "note": "source of school IDs for Paying for College; data is maintained by the National Center for Education Statistics", 
+        "link_label": "website", 
+        "link": "https://nces.ed.gov/ipeds/", 
+        "acro": "IPEDS", 
+        "name": "Integrated Postsecondary Education Data System"
+    }, 
+    "IPL": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IPL", 
+        "name": "institution product line"
+    }, 
+    "IPR": {
+        "note": "PMO review", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IPR", 
+        "name": "inflight progress review"
+    }, 
+    "IPS": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IPS", 
+        "name": "intrusion protection system"
+    }, 
+    "IPV4": {
+        "note": "the most widely used internet address protocol, but it's running out of addresses", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IPv4", 
+        "name": "Internet Protocol version 4"
+    }, 
+    "IPV6": {
+        "note": "an internet address protocol to allow for an almost unlimited number of web addresses", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IPv6", 
+        "name": "Internet Protocol version 6"
+    }, 
+    "IQ": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IQ", 
+        "name": "Identification Questionnaire OR Intelligence Quotient"
+    }, 
+    "IR": {
+        "note": "first is a a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IR", 
+        "name": "incident response OR information request"
+    }, 
+    "IRB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IRB", 
+        "name": "Investment Review Board"
+    }, 
+    "IRS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.irs.gov/", 
+        "acro": "IRS", 
+        "name": "Internal Revenue Service"
+    }, 
+    "IS": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IS", 
+        "name": "information system"
+    }, 
+    "ISA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ISA", 
+        "name": "interconnection security agreement"
+    }, 
+    "ISS": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ISS", 
+        "name": "information systems security"
+    }, 
+    "ISSO": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ISSO", 
+        "name": "Information System Security Officer"
+    }, 
+    "ISSM": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ISSM", 
+        "name": "information system security manager"
+    }, 
+    "IT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IT", 
+        "name": "information technology"
+    }, 
+    "ITS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ITS", 
+        "name": "inventory tracking system"
+    }, 
+    "IV&V": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IV&V", 
+        "name": "independent verification and validation"
+    }, 
+    "JA": {
+        "note": "our framework for automating Jenkins deployments", 
+        "link_label": "repo", 
+        "link": "https://github.com/cfpb/jenkins-automation", 
+        "acro": "JA", 
+        "name": "Jenkins Automation"
+    }, 
+    "JSON": {
+        "note": "a data transfer format that stores data as javascript objects", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "JSON", 
+        "name": "JavaScript Object Notation"
+    }, 
+    "KBYO": {
+        "note": "Bureau's preferred term for TILA-RESPA or TRID issues", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "KBYO", 
+        "name": "Know Before You Owe"
+    }, 
+    "L&D": {
+        "note": "a team in the Office of Human Capital", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "L&D", 
+        "name": "Learning and Development"
+    }, 
+    "LAN": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LAN", 
+        "name": "local area network"
+    }, 
+    "LAR": {
+        "note": "HMDA term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LAR", 
+        "name": "Loan Application Register"
+    }, 
+    "LATF": {
+        "note": "part of the Office of Financial Education", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LATF", 
+        "name": "Language Access Task Force"
+    }, 
+    "LD": {
+        "note": "the Legal Division is a part of the Office of General Counsel", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LD", 
+        "name": "Legal Division OR litigation deputy"
+    }, 
+    "LEP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LEP", 
+        "name": "limited English proficiency"
+    }, 
+    "LMS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LMS", 
+        "name": "Learning Management System"
+    }, 
+    "LOC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LOC", 
+        "name": "line of credit OR Library of Congress"
+    }, 
+    "LGTM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LGTM", 
+        "name": "looks good to me"
+    }, 
+    "LPD": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LPD", 
+        "name": "laptops and portable electronic devices"
+    }, 
+    "LTD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LTD", 
+        "name": "long-term disability"
+    }, 
+    "LTV": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LTV", 
+        "name": "loan to value"
+    }, 
+    "LWOP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "LWOP", 
+        "name": "leave without pay"
+    }, 
+    "MAC ADDRESS": {
+        "note": "a device-specific network identifier", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MAC address", 
+        "name": "Media Access Control address"
+    }, 
+    "MAPR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MAPR", 
+        "name": "military annual percentage rate"
+    }, 
+    "MAPS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MAPS", 
+        "name": "multi-action planning source"
+    }, 
+    "MBS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MBS", 
+        "name": "mortgage backed security"
+    }, 
+    "MCR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MCR", 
+        "name": "mortgage call report"
+    }, 
+    "MDIA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MDIA", 
+        "name": "Mortgage Disclosure Improvement Act"
+    }, 
+    "MEDIC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MEDIC", 
+        "name": "Master Entity Database - Institution Profile"
+    }, 
+    "MLA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MLA", 
+        "name": "Military Lending Act"
+    }, 
+    "MLO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MLO", 
+        "name": "mortgage loan originator"
+    }, 
+    "MMC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MMC", 
+        "name": "Multi-State Mortgage Committee"
+    }, 
+    "MMDA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MMDA", 
+        "name": "money market deposit account"
+    }, 
+    "MMKT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MMKT", 
+        "name": "Money Market"
+    }, 
+    "MMS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MMS", 
+        "name": "Matter Management System"
+    }, 
+    "MOA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MOA", 
+        "name": "memorandum of agreement"
+    }, 
+    "MOU": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MOU", 
+        "name": "memorandum of understanding"
+    }, 
+    "MP": {
+        "note": "former is a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MP", 
+        "name": "media protection OR military police"
+    }, 
+    "MRA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MRA", 
+        "name": "matter requiring attention"
+    }, 
+    "MS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MS", 
+        "name": "Microsoft OR multiple sclerosis"
+    }, 
+    "MSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MSA", 
+        "name": "Metropolitan Statistical Area"
+    }, 
+    "MVP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MVP", 
+        "name": "minimum viable product"
+    }, 
+    "NACARA": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.nacaraweb.org/", 
+        "acro": "NACARA", 
+        "name": "North American Collection Agency Regulatory Association"
+    }, 
+    "NAR": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.realtor.org/", 
+        "acro": "NAR", 
+        "name": "National Association of Realtors"
+    }, 
+    "NACLC": {
+        "note": "type of federal background check", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NACLC", 
+        "name": "national agency check with law and credit"
+    }, 
+    "NARA": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.archives.gov/", 
+        "acro": "NARA", 
+        "name": "National Archives and Records Administration"
+    }, 
+    "NASCUS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.nascus.org/", 
+        "acro": "NASCUS", 
+        "name": "National Association of State Credit Union Supervisors"
+    }, 
+    "NCES": {
+        "note": "a part of the Department of Education", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NCES", 
+        "name": "National Center for Education Statistics"
+    }, 
+    "NCUA": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.ncua.gov/Pages/default.aspx", 
+        "acro": "NCUA", 
+        "name": "National Credit Union Administration"
+    }, 
+    "NEAT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NEAT", 
+        "name": "Northeast Analytics Team"
+    }, 
+    "NEIT": {
+        "note": "an interoffice working group to help SEFL respond to changes in exam policy", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NEIT", 
+        "name": "National Examination Intelligence Team"
+    }, 
+    "NEO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NEO", 
+        "name": ""
+    }, 
+    "NER": {
+        "note": "a tagger used in natural language processing, used to scrub CCDB data", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NER", 
+        "name": "named entity recognizer"
+    }, 
+    "NFC": {
+        "note": "hosts federal employee personal pages", 
+        "link_label": "website", 
+        "link": "https://www.nfc.usda.gov/", 
+        "acro": "NFC", 
+        "name": "National Finance Center"
+    }, 
+    "NIC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "https://www.ffiec.gov/nicpubweb/nicweb/nichome.aspx", 
+        "acro": "NIC", 
+        "name": "National Information Center"
+    }, 
+    "NIST": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NIST", 
+        "name": "National Institute for Standards and Technology"
+    }, 
+    "NLP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NLP", 
+        "name": "natural language processing"
+    }, 
+    "NLTK": {
+        "note": "a natural language processing platform for Python", 
+        "link_label": "website", 
+        "link": "http://www.nltk.org/", 
+        "acro": "NLTK", 
+        "name": "Natural Language Toolkit"
+    }, 
+    "NMLS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://mortgage.nationwidelicensingsystem.org/Pages/default.aspx", 
+        "acro": "NMLS", 
+        "name": "Nationwide Mortgage Licensing System"
+    }, 
+    "NOMA": {
+        "note": "CFPB's neighborhood and Red Line station", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NOMA", 
+        "name": "North of Massachusetts"
+    }, 
+    "NORA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NORA", 
+        "name": "notice and opportunity to respond and advise"
+    }, 
+    "NOW": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NOW", 
+        "name": "negotiable order of withdrawal"
+    }, 
+    "NPM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "npm", 
+        "name": "Node Package Manager"
+    }, 
+    "NPRM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NPRM", 
+        "name": "notice of proposed rule making"
+    }, 
+    "NSF": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "NSF", 
+        "name": "non-sufficient funds"
+    }, 
+    "NSLDS": {
+        "note": "Department of Education database for student aid", 
+        "link_label": "website", 
+        "link": "https://www.nslds.ed.gov/nslds/nslds_SA/", 
+        "acro": "NSLDS", 
+        "name": "National Student Loan Data System"
+    }, 
+    "NTI": {
+        "note": "CFPB's travel service: (800) 347-9779 access code 2D5V ", 
+        "link_label": "website", 
+        "link": "http://www.nationaltravel.com", 
+        "acro": "NTI", 
+        "name": "National Travel Inc."
+    }, 
+    "NTEU": {
+        "note": "the union representing CFPB employees", 
+        "link_label": "website", 
+        "link": "http://www.nteu.org/cfpb/", 
+        "acro": "NTEU", 
+        "name": "National Treasury Employees Union"
+    }, 
+    "O&M": {
+        "note": "software delivery term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "O&M", 
+        "name": "operations and maintenance"
+    }, 
+    "OA": {
+        "note": "an office in Consumer Education and Engagement", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OA", 
+        "name": "Older Americans"
+    }, 
+    "OAC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OAC", 
+        "name": "Operations Advisory Committee"
+    }, 
+    "OCC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.occ.gov/", 
+        "acro": "OCC", 
+        "name": "Office of the Comptroller of the Currency"
+    }, 
+    "OCE": {
+        "note": "part of Consumer Education and Engagement", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OCE", 
+        "name": "Office of Consumer Engagement"
+    }, 
+    "OCFO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OCFO", 
+        "name": "Office of Chief Financial Officer"
+    }, 
+    "OCIO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OCIO", 
+        "name": "Office of the Chief Information Officer"
+    }, 
+    "OCR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OCR", 
+        "name": "Offic of Civil Rights OR optical character recognition"
+    }, 
+    "OD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OD", 
+        "name": "overdraft"
+    }, 
+    "ODP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ODP", 
+        "name": "overdraft protection"
+    }, 
+    "OFAC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OFAC", 
+        "name": "Office of Foreign Assets Control"
+    }, 
+    "OFCIO": {
+        "note": "part of the Office of Management and Budget", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OFCIO", 
+        "name": "Office of the Federal Chief Information Officer"
+    }, 
+    "OFE": {
+        "note": "part of Consumer Education and Engagement", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OFE", 
+        "name": "Office of Financial Education"
+    }, 
+    "OFIBL": {
+        "note": "part of External Affairs", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OFIBL", 
+        "name": "Office of Financial Institutions and Business Liason"
+    }, 
+    "OFLEO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OFLEO", 
+        "name": "Office of Fair Lending and Equal Opportunity"
+    }, 
+    "OFR": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.ofr.gov/", 
+        "acro": "OFR", 
+        "name": "Office of the Federal Register OR Office of Financial Research (Treasury)"
+    }, 
+    "OGC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OGC", 
+        "name": "Office of General Counsel"
+    }, 
+    "OHC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OHC", 
+        "name": "Office of Human Capital"
+    }, 
+    "OIG": {
+        "note": "not a single office; there are 73 federal offices of inspectors general", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OIG", 
+        "name": "Office of Inspector General"
+    }, 
+    "OJT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OJT", 
+        "name": "on-the-job training"
+    }, 
+    "OMB": {
+        "note": "an office within the White House", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OMB", 
+        "name": "Office of Management and Budget"
+    }, 
+    "OMWI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OMWI", 
+        "name": "Office of Minority and Women Inclusion"
+    }, 
+    "OOO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OOO", 
+        "name": "out of the office"
+    }, 
+    "OPE": {
+        "note": "a data source for Paying for College; part of the Department of Education", 
+        "link_label": "web page", 
+        "link": "http://www2.ed.gov/about/offices/list/ope/index.html", 
+        "acro": "OPE", 
+        "name": "Office of Postsecondary Education"
+    }, 
+    "OPM": {
+        "note": "federal agency", 
+        "link_label": "website", 
+        "link": "https://www.opm.gov/", 
+        "acro": "OPM", 
+        "name": "Office of Personnel Management"
+    }, 
+    "OR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OR", 
+        "name": "Office of Research"
+    }, 
+    "OREO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OREO", 
+        "name": "other real estate owned"
+    }, 
+    "OS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OS", 
+        "name": "operating system"
+    }, 
+    "OSE": {
+        "note": "oversees nationwide bank supervision and examinations", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OSE", 
+        "name": "Office of Supervision Examinations"
+    }, 
+    "OSH": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OSH", 
+        "name": "open-source hardware"
+    }, 
+    "OSP": {
+        "note": "central coordinator for draft reports", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OSP", 
+        "name": "Office of Supervision Policy"
+    }, 
+    "OTFR": {
+        "note": "also known as OFR", 
+        "link_label": "website", 
+        "link": "http://financialresearch.gov/", 
+        "acro": "OTFR", 
+        "name": "Office of Treasury Financial Research"
+    }, 
+    "OTS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OTS", 
+        "name": "Office of Thrift Supervision"
+    }, 
+    "OWASP": {
+        "note": "nonprofit keeper of the OWASP Top Ten list of web security flaws", 
+        "link_label": "website", 
+        "link": "https://www.owasp.org/index.php/Main_Page", 
+        "acro": "OWASP", 
+        "name": "Open Web Application Security Project"
+    }, 
+    "P CARDS": {
+        "note": "overseen by the Procurement office", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "P cards", 
+        "name": "purchasing cards"
+    }, 
+    "PARR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PARR", 
+        "name": "potential action and request for response"
+    }, 
+    "PBX": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PBX", 
+        "name": "private branch exchange"
+    }, 
+    "PDA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PDA", 
+        "name": "personal digital assistant"
+    }, 
+    "PDF": {
+        "note": "a file format created by Adobe to make printable documents portable", 
+        "link_label": "web page", 
+        "link": "https://acrobat.adobe.com/us/en/products/about-adobe-pdf.html", 
+        "acro": "PDF", 
+        "name": "portable document format"
+    }, 
+    "PDB": {
+        "note": "", 
+        "link_label": "web page", 
+        "link": "https://docs.python.org/2/library/pdb.html", 
+        "acro": "pdb", 
+        "name": "Python debugger"
+    }, 
+    "PDP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PDP", 
+        "name": "public data platform"
+    }, 
+    "PE": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PE", 
+        "name": "physical and environmental protection"
+    }, 
+    "PEP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PEP", 
+        "name": "Physical Exam Program OR Python enhancement proposal"
+    }, 
+    "PEPD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PEPD", 
+        "name": "portable electronic processing device"
+    }, 
+    "PFC": {
+        "note": "a CFPG consumer tool", 
+        "link_label": "landing page", 
+        "link": "http://www.consumerfinance.gov/paying-for-college/", 
+        "acro": "PfC", 
+        "name": "Paying for College"
+    }, 
+    "PIA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PIA", 
+        "name": "privacy impact assessment"
+    }, 
+    "PICC": {
+        "note": "an 18F project to build an API and app to handle college data for the Department of Education; the API is used for CFPB's Paying for College tools", 
+        "link_label": "GitHub repo", 
+        "link": "https://github.com/18F/college-choice", 
+        "acro": "PICC", 
+        "name": "Project Inform College Choice"
+    }, 
+    "PIFI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PIFI", 
+        "name": "personally identifiable financial information"
+    }, 
+    "PII": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PII", 
+        "name": "personally identifiable information"
+    }, 
+    "PIF": {
+        "note": "former is a Project Management Office document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PIF", 
+        "name": "project intake form OR presidential innovation fellow"
+    }, 
+    "PIP": {
+        "note": "the Python term is a recursive acryonym, standing for \"Pip Installs Packages\"", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PIP", 
+        "name": "performance improvement plan OR a utility for installing Python packages"
+    }, 
+    "PIRG": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PIRG", 
+        "name": "public interest research group"
+    }, 
+    "PITA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PITA", 
+        "name": "pain in the ass"
+    }, 
+    "PIV": {
+        "note": "federal ID card or deployment routine", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PIV", 
+        "name": "Personal Identity Verification OR post-implementation validation"
+    }, 
+    "PMC": {
+        "note": "CR PMO office that handles project approval", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PMC", 
+        "name": "program management committee"
+    }, 
+    "PKI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PKI", 
+        "name": "public key infrastructure"
+    }, 
+    "PM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PM", 
+        "name": "patch management"
+    }, 
+    "PMI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PMI", 
+        "name": "private mortgage insurance"
+    }, 
+    "PMIC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PMIC", 
+        "name": "private mortgage insurance companies"
+    }, 
+    "PMO": {
+        "note": "three bureau offices that coordinate project work", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PMO", 
+        "name": "Project Management Office OR Program Management Office"
+    }, 
+    "PMP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PMP", 
+        "name": "Performance Management Program"
+    }, 
+    "POA&M": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "POA&M", 
+        "name": "plan of action and milestones"
+    }, 
+    "POC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "POC", 
+        "name": "proof of concept OR point of contact"
+    }, 
+    "POM": {
+        "note": "an efficient construct for writing Selenium browser tests", 
+        "link_label": "", 
+        "link": "https://code.google.com/p/selenium/wiki/PageObjects", 
+        "acro": "POM", 
+        "name": "page object model"
+    }, 
+    "POTUS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "POTUS", 
+        "name": "president of the United States"
+    }, 
+    "POV": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "POV", 
+        "name": "personally owned vehicle"
+    }, 
+    "PPT": {
+        "note": "also the extension for PowerPoint files", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PPT", 
+        "name": "Powerpoint"
+    }, 
+    "PRA": {
+        "note": "a law and a team in the Chief Data Office, and the current bane of user research at CFPB", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PRA", 
+        "name": "Paperwork Reduction Act"
+    }, 
+    "PS": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PS", 
+        "name": "personnel security"
+    }, 
+    "PSD": {
+        "note": "an Adobe document type and file extension for native Photoshop files", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PSD", 
+        "name": "Photoshop document"
+    }, 
+    "PST": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PST", 
+        "name": "Policy and Strategy Team"
+    }, 
+    "PTA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PTA", 
+        "name": "privacy threshold assessment"
+    }, 
+    "PTO": {
+        "note": "also knowns as USPTO", 
+        "link_label": "website", 
+        "link": "http://www.uspto.gov/", 
+        "acro": "PTO", 
+        "name": "U.S. Patent and Trade Office"
+    }, 
+    "PTP": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PTP", 
+        "name": "point-to-point"
+    }, 
+    "PUA": {
+        "note": "a cybersecurity form required for getting s3 keys or other CFPB auth tokens", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "PUA", 
+        "name": "privileged user access form"
+    }, 
+    "PWC": {
+        "note": "accounting, auditing and consulting firm", 
+        "link_label": "website", 
+        "link": "http://www.pwc.com/us/en/index.jhtml", 
+        "acro": "PwC", 
+        "name": "PricewaterhouseCoopers"
+    }, 
+    "QLE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "QLE", 
+        "name": "qualifying life event"
+    }, 
+    "QPR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "QPR", 
+        "name": "quarterly performance review"
+    }, 
+    "R&I": {
+        "note": "Project Management Office concern", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "R&I", 
+        "name": "risk and issues"
+    }, 
+    "RA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RA", 
+        "name": "risk assessment"
+    }, 
+    "RAA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RAA", 
+        "name": "risk approval authority"
+    }, 
+    "RAM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RAM", 
+        "name": "research action memo"
+    }, 
+    "RAR": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RAR", 
+        "name": "Risk Assessment Report"
+    }, 
+    "REG Z": {
+        "note": "", 
+        "link_label": "web page", 
+        "link": "http://www.ecfr.gov/cgi-bin/text-idx?SID=a02ae5b9f00ad0c50a9d886e6d7f272c&mc=true&node=pt12.9.1026&rgn=div5", 
+        "acro": "REG Z", 
+        "name": "the Truth in Lending regulation"
+    }, 
+    "REIT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "REIT", 
+        "name": "real estate investment trust"
+    }, 
+    "REPL": {
+        "note": "shorthand for an interactive code session", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "REPL", 
+        "name": "Read-eval-print loop"
+    }, 
+    "RESPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RESPA", 
+        "name": "Real Estate Settlement Procedures Act of 1974"
+    }, 
+    "RESPRO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RESPRO", 
+        "name": "Real Estate Services Providers Council"
+    }, 
+    "RFA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFA", 
+        "name": "Regulatory Flexibility Act"
+    }, 
+    "RFI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFI", 
+        "name": "request for information"
+    }, 
+    "RFID": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFID", 
+        "name": "radio frequency identification"
+    }, 
+    "RFP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFP", 
+        "name": "request for proposal"
+    }, 
+    "RFPA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFPA", 
+        "name": "Right to Financial Privacy Act"
+    }, 
+    "RFQ": {
+        "note": "a standard business bidding process", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RFQ", 
+        "name": "request for quotation"
+    }, 
+    "RHEL": {
+        "note": "a commercial Linux distribution used at CFPB", 
+        "link_label": "website", 
+        "link": "http://www.redhat.com/en/technologies/linux-platforms/enterprise-linux", 
+        "acro": "RHEL", 
+        "name": "Red Hat Enterprise Linux"
+    }, 
+    "RLO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RLO", 
+        "name": "records liaison officer"
+    }, 
+    "RM": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RM", 
+        "name": "risk management"
+    }, 
+    "RMF": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMF", 
+        "name": "risk management framework"
+    }, 
+    "RMIC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMIC", 
+        "name": "Records Management Information Center"
+    }, 
+    "RMLA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMLA", 
+        "name": "residential mortgage loan activity"
+    }, 
+    "RMO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMO", 
+        "name": "Records Management Office"
+    }, 
+    "RMP": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMP", 
+        "name": "risk management process"
+    }, 
+    "RMR": {
+        "note": "CFPB division", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "RMR", 
+        "name": "Research, Markets and Regulations"
+    }, 
+    "ROB": {
+        "note": "a cybersecurity form", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ROB", 
+        "name": "rules of behavior"
+    }, 
+    "ROI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ROI", 
+        "name": "return on investment"
+    }, 
+    "ROT": {
+        "note": "content strategy term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ROT", 
+        "name": "redundancy, outdated or trivial"
+    }, 
+    "SA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SA", 
+        "name": "system and services acquisition"
+    }, 
+    "SA&A": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SA&A", 
+        "name": "security assessment & authorization"
+    }, 
+    "SA&E": {
+        "note": "part of T&I", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SA&E", 
+        "name": "Security Architecture and Engineering team"
+    }, 
+    "SAFE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAFE", 
+        "name": "Secure and Fair Enforcement for Mortgage Licensing Act"
+    }, 
+    "SAG": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAG", 
+        "name": "Software Advisory Group"
+    }, 
+    "SAL": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAL", 
+        "name": "security activities list"
+    }, 
+    "SAML": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAML", 
+        "name": "security assertion markup language"
+    }, 
+    "SAQ": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAQ", 
+        "name": "security assessment questionnaire"
+    }, 
+    "SAR": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAR", 
+        "name": "suspicious activity report OR security assessment report"
+    }, 
+    "SBA": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "https://www.sba.gov/", 
+        "acro": "SBA", 
+        "name": "Small Business Administration"
+    }, 
+    "SBREFA": {
+        "note": "a requirement of the Regulatory Flexibility Act", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SBREFA", 
+        "name": "Small Business Review "
+    }, 
+    "SC": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SC", 
+        "name": "system and communications protection"
+    }, 
+    "SCA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCA", 
+        "name": "security controls assessment"
+    }, 
+    "SCADA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCADA", 
+        "name": "supervisory control and data acquisition"
+    }, 
+    "SCAP": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCAP", 
+        "name": "security content automation protocol"
+    }, 
+    "SCM": {
+        "note": "a version control system", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCM", 
+        "name": "software configuration management"
+    }, 
+    "SCOTUS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCOTUS", 
+        "name": "Supreme Court of the United States"
+    }, 
+    "SCRA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SCRA", 
+        "name": "Servicemembers Civil Relief Act of 2003"
+    }, 
+    "SE": {
+        "note": "part of T&I or a a cybersecurity job", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SE", 
+        "name": "Systems Engineering OR security engineer"
+    }, 
+    "SEA": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SEA", 
+        "name": "security enterprise architecture"
+    }, 
+    "SEC": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.sec.gov/", 
+        "acro": "SEC", 
+        "name": "Securities and Exchange Commission"
+    }, 
+    "SEFL": {
+        "note": "a CFPB division", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SEFL", 
+        "name": "Supervision, Enforcement and Fair Lending"
+    }, 
+    "SER": {
+        "note": "an adviser from small business", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SER", 
+        "name": "small entity representative"
+    }, 
+    "SES": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SES", 
+        "name": "Supervision and Examination System"
+    }, 
+    "SF": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SF", 
+        "name": "standard form"
+    }, 
+    "SF-182": {
+        "note": "available at TLMS", 
+        "link_label": "TLMS website", 
+        "link": "https://tlms.treas.gov/learning/user/login.do", 
+        "acro": "SF-182", 
+        "name": "a standard form for requesting to attend training and conferences"
+    }, 
+    "SI": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SI", 
+        "name": "system and information integrity"
+    }, 
+    "SIM": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SIM", 
+        "name": "subscriber identity module"
+    }, 
+    "SIP": {
+        "note": "a cybersecurity document for software delivery", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SIP", 
+        "name": "security implementation plan"
+    }, 
+    "SLA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SLA", 
+        "name": "service level agreement"
+    }, 
+    "SLC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SLC", 
+        "name": "State Liaison Committee"
+    }, 
+    "SME": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SME", 
+        "name": "subject matter expert"
+    }, 
+    "SMC": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SMC", 
+        "name": "Senior Management Council"
+    }, 
+    "SMTP": {
+        "note": "an internet standard for email", 
+        "link_label": "standards page", 
+        "link": "https://tools.ietf.org/html/rfc5321", 
+        "acro": "SMTP", 
+        "name": "simple mail transfer protocol"
+    }, 
+    "SNL": {
+        "note": "a service that distributes financial market data. SNL is an altered form of its original name, \"S&L,\" which referred to \"savings and loans.\"", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SNL", 
+        "name": "SNL Financial"
+    }, 
+    "SO": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SO", 
+        "name": "system owner"
+    }, 
+    "SOP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SOP", 
+        "name": "standard operating procedure"
+    }, 
+    "SOR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SOR", 
+        "name": "System of Records"
+    }, 
+    "SORN": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SORN", 
+        "name": "System of Records Notice"
+    }, 
+    "SP": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SP", 
+        "name": "special publication"
+    }, 
+    "SPA": {
+        "note": "a web app or page that generally loads just once", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SPA", 
+        "name": "single-page application"
+    }, 
+    "SPARC": {
+        "note": "part of Supervision Examinations; formerly called RAM", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SPARC", 
+        "name": "Strategic Projects And Risk Analytics Team"
+    }, 
+    "SPG": {
+        "note": "the rewards program for Sheraton, Westin, W, Meridien and other hotels", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SPG", 
+        "name": "Starwood Preferred Guest"
+    }, 
+    "SPII": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SPII", 
+        "name": "sensitive personally identifiable information"
+    }, 
+    "SPV": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SPV", 
+        "name": "special purpose vehicle"
+    }, 
+    "SRM": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SRM", 
+        "name": "strategy & risk management"
+    }, 
+    "SRS": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SRS", 
+        "name": "service review survey"
+    }, 
+    "SSA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SSA", 
+        "name": "Social Security Administration"
+    }, 
+    "SSAE": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SSAE", 
+        "name": "statements on standards for attestation engagements"
+    }, 
+    "SSH": {
+        "note": "a protocol for logging on to a web service through a secure channel", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SSH", 
+        "name": "Secure Shell"
+    }, 
+    "SSL": {
+        "note": "a web security protocol for encrypted links, used by https", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SSL", 
+        "name": "secure sockets layer"
+    }, 
+    "SSO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SSO", 
+        "name": "single sign on"
+    }, 
+    "SSP": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SSP", 
+        "name": "system security plan"
+    }, 
+    "ST&E": {
+        "note": "a cybersecurity term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "ST&E", 
+        "name": "security test and evaluation"
+    }, 
+    "STD": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "STD", 
+        "name": "short-term disability"
+    }, 
+    "T&C": {
+        "note": "a T&I working group to improve communications", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "T&C", 
+        "name": "Technology and Communications"
+    }, 
+    "T&I": {
+        "note": "part of Operations", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "T&I", 
+        "name": "Technology and Innovation"
+    }, 
+    "T&P": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "T&P", 
+        "name": "temporary and preliminary report"
+    }, 
+    "TARP": {
+        "note": "created in October 2008 in reaction to the financial crisis", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TARP", 
+        "name": "Troubled Asset Relief Program"
+    }, 
+    "TCE": {
+        "note": "an IRS-sponsored program", 
+        "link_label": "web page", 
+        "link": "http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers", 
+        "acro": "TCE", 
+        "name": "Tax Counseling for the Elderly"
+    }, 
+    "TEP": {
+        "note": "helps review technical aspects of CFPB contracts    ", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TEP", 
+        "name": "Technical Evaluation Panel"
+    }, 
+    "TILA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TILA", 
+        "name": "Truth in Lending Act of 1968"
+    }, 
+    "TILA-RESPA": {
+        "note": "our preferred term for TILA-RESPA topics is \"Know Before You Owe\"", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TILA-RESPA", 
+        "name": "Truth in Lending Act-Real Estate Settlement Procedures Act"
+    }, 
+    "TISA": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TISA", 
+        "name": "Truth in Savings Act"
+    }, 
+    "TLMS": {
+        "note": "online training tool", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TLMS", 
+        "name": "Treasury Learning Management System"
+    }, 
+    "TOS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TOS", 
+        "name": "terms of service"
+    }, 
+    "TPM": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TPM", 
+        "name": "technology portfolio manager"
+    }, 
+    "TREAS": {
+        "note": "", 
+        "link_label": "website", 
+        "link": "http://www.treasury.gov/Pages/default.aspx", 
+        "acro": "TREAS", 
+        "name": "Department of the Treasury"
+    }, 
+    "TRID": {
+        "note": "and TILA-RESPA stands for Truth in Lending Act-Real Estate Settlement Procedures Act", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TRID", 
+        "name": "TILA-RESPA Integrated Disclosure"
+    }, 
+    "TRO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TRO", 
+        "name": "temporary restraining order"
+    }, 
+    "TSP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TSP", 
+        "name": "thrift savings plan"
+    }, 
+    "UAT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "UAT", 
+        "name": "user acceptance testing"
+    }, 
+    "UBPR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "UBPR", 
+        "name": "uniform bank performance report"
+    }, 
+    "UDAAP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "UDAAP", 
+        "name": "unfair, deceptive or abusive acts and practices"
+    }, 
+    "UPB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "UPB", 
+        "name": "unpaid principal balance"
+    }, 
+    "USB": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "USB", 
+        "name": "universal serial bus"
+    }, 
+    "USPTO": {
+        "note": "also knowns as PTO", 
+        "link_label": "website", 
+        "link": "http://www.uspto.gov/", 
+        "acro": "USPTO", 
+        "name": "U.S. Patent and Trade Office"
+    }, 
+    "VIE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "VIE", 
+        "name": "variable interest entities"
+    }, 
+    "VITA": {
+        "note": "an IRS-sponsored program", 
+        "link_label": "web page", 
+        "link": "http://www.irs.gov/Individuals/Free-Tax-Return-Preparation-for-You-by-Volunteers", 
+        "acro": "VITA", 
+        "name": "Volunteer Income Tax Assistance"
+    }, 
+    "W3C": {
+        "note": "web standards community", 
+        "link_label": "website", 
+        "link": "http://www.w3.org/", 
+        "acro": "W3C", 
+        "name": "World Wide Web Consortium"
+    }, 
+    "WAN": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WAN", 
+        "name": "wide area network"
+    }, 
+    "WEBTA": {
+        "note": "site for handling timecards", 
+        "link_label": "website", 
+        "link": "https://webta.publicdebt.treas.gov/cfpb/servlet/com.threeis.webta.H000welcome", 
+        "acro": "webTA", 
+        "name": "Web Time and Attendance System"
+    }, 
+    "WIP": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WIP", 
+        "name": "work in progress"
+    }, 
+    "WYSIWYG": {
+        "note": "a WYSIWYG editor shows you what your type will look like", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WYSIWYG", 
+        "name": "what you see is what you get"
+    }, 
+    "YAML": {
+        "note": "a human-friendly data serialization language", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "YAML", 
+        "name": "YAML ain't markup language (a recursive acronym)"
+    }, 
+    "YMMV": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "YMMV", 
+        "name": "your mileage may vary"
+    }, 
+    "YMYG": {
+        "note": "a toolkit for financial advisers and volunteers", 
+        "link_label": "web page", 
+        "link": "http://www.consumerfinance.gov/your-money-your-goals/", 
+        "acro": "YMYG", 
+        "name": "Your Money, Your Goals"
+    }
+}
