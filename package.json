@@ -33,10 +33,9 @@
     "node": "0.12.x"
   },
   "scripts": {
-    "test": "node test"
+    "test": "#node test"
   },
   "devDependencies": {
-    "nodegit": "nodegit/nodegit#master",
     "request": "^2.58.0"
   }
 }
