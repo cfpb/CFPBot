@@ -1154,6 +1154,13 @@
         "acro": "FAR", 
         "name": "Federal Acquisition Regulation"
     }, 
+    "FBO": {
+        "note": "a federal web-based system for connecting agencies and vendors", 
+        "link_label": "website", 
+        "link": "https://www.fbo.gov/", 
+        "acro": "FBO", 
+        "name": "Federal Business Opportunities"
+    }, 
     "FCRA": {
         "note": "", 
         "link_label": "", 
@@ -1341,7 +1348,7 @@
         "link_label": "", 
         "link": "", 
         "acro": "FLEC", 
-        "name": "Financial Literacy & Education Commission"
+        "name": "Financial Literacy Education Commission"
     }, 
     "FLID": {
         "note": "", 
@@ -1462,6 +1469,13 @@
         "acro": "FTP", 
         "name": "File Transfer Protocol"
     }, 
+    "FYSA": {
+        "note": "a cautionary acronym often used in the military", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FYSA", 
+        "name": "for your situational awareness"
+    }, 
     "FYQ1": {
         "note": "", 
         "link_label": "", 
@@ -1489,6 +1503,13 @@
         "link": "", 
         "acro": "GFE", 
         "name": "Good Faith Estimate"
+    }, 
+    "GHE": {
+        "note": "usually a reference to CFPB's internal GitHub website", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GHE", 
+        "name": "GitHub Enterprise"
     }, 
     "GIS": {
         "note": "", 
@@ -1895,6 +1916,13 @@
         "link": "https://github.com/cfpb/jenkins-automation", 
         "acro": "JA", 
         "name": "Jenkins Automation"
+    }, 
+    "JAC": {
+        "note": "a framework for writing Jenkins deployment jobs in groovy instead of using the Jenkins UI", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "JAC", 
+        "name": "Jenkins as code"
     }, 
     "JSON": {
         "note": "a data transfer format that stores data as javascript objects", 
@@ -3100,6 +3128,13 @@
         "acro": "SA&E", 
         "name": "Security Architecture and Engineering team"
     }, 
+    "SAE": {
+        "note": "part of T&I", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAE", 
+        "name": "Security Architecture and Engineering team"
+    }, 
     "SAFE": {
         "note": "", 
         "link_label": "", 
@@ -3394,6 +3429,13 @@
         "acro": "SPV", 
         "name": "special purpose vehicle"
     }, 
+    "SRE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SRE", 
+        "name": "site reliability engineering"
+    }, 
     "SRM": {
         "note": "a cybersecurity term", 
         "link_label": "", 
@@ -3673,6 +3715,13 @@
         "link": "", 
         "acro": "WIP", 
         "name": "work in progress"
+    }, 
+    "WSDL": {
+        "note": "an XML-based interface language for describing the features of a web service", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WSDL", 
+        "name": "Web Services Description Language"
     }, 
     "WYSIWYG": {
         "note": "a WYSIWYG editor shows you what your type will look like", 
