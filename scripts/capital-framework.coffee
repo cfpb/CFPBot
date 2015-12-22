@@ -26,13 +26,8 @@ module.exports = (robot) ->
       knew = data[0].latest.version
       if semver.gt(knew, old)
         msg = 'Version ' + knew + ' of Capital Framework was just released. ' +
-              'https://github.com/cfpb/capital-framework/blob/canary/CHANGELOG.md'
-        console.log 'Capital Framework has changed: ', knew
+              'https://github.com/cfpb/capital-framework/blob/master/CHANGELOG.md'
         robot.messageRoom process.env.HUBOT_CF_ROOM, msg
-      else
-        msg = 'Version ' + knew + ' of Capital Framework was just released. ' +
-              'https://github.com/cfpb/capital-framework/blob/canary/CHANGELOG.md'
-        console.log 'Capital Framework has not changed. ', old
       robot.brain.set 'latest-cf', knew
       return
   , 60000
