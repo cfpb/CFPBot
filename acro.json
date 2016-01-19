@@ -216,6 +216,13 @@
         "acro": "BDD", 
         "name": "behavior-driven development"
     }, 
+    "BEM": {
+        "note": "a front-end methodology for organizing work on web page components", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BEM", 
+        "name": "block, element, modifier"
+    }, 
     "BES": {
         "note": "", 
         "link_label": "", 
@@ -244,6 +251,20 @@
         "acro": "BI", 
         "name": "Business Intelligence"
     }, 
+    "BISG": {
+        "note": "a means of calculating probability for race and ethnicity", 
+        "link_label": "repo", 
+        "link": "https://github.com/cfpb/proxy-methodology", 
+        "acro": "BISG", 
+        "name": "Bayesian Improved Surname Geocoding"
+    }, 
+    "BOAR": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "BOAR", 
+        "name": "Business Operation Analytics and Reporting"
+    }, 
     "BPA": {
         "note": "", 
         "link_label": "", 
@@ -258,12 +279,12 @@
         "acro": "BPD", 
         "name": "Bureau of Public Debt"
     }, 
-    "BOAR": {
-        "note": "", 
+    "BRD": {
+        "note": "a PMO file to define project scope, often associated with waterfall process", 
         "link_label": "", 
         "link": "", 
-        "acro": "BOAR", 
-        "name": "Business Operation Analytics and Reporting"
+        "acro": "BRD", 
+        "name": "business requirements document"
     }, 
     "BSA": {
         "note": "", 
@@ -600,6 +621,13 @@
         "link": "", 
         "acro": "COTR", 
         "name": "contracting officer's technical representative"
+    }, 
+    "COTS": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "COTS", 
+        "name": "commercial off-the-shelf"
     }, 
     "CP": {
         "note": "a cybersecurity document", 
@@ -965,6 +993,20 @@
         "acro": "ECEF", 
         "name": "electronic continuing exam folders"
     }, 
+    "ECFR": {
+        "note": "the electronic version of U.S. regulations, provided by the Government Publishing Office", 
+        "link_label": "website", 
+        "link": "http://www.ecfr.gov/cgi-bin/ECFR?page=browse", 
+        "acro": "eCFR", 
+        "name": "Electronic Code of Federal Regulations"
+    }, 
+    "E-CFR": {
+        "note": "the electronic version of U.S. regulations, provided by the Government Publishing Office", 
+        "link_label": "website", 
+        "link": "http://www.ecfr.gov/cgi-bin/ECFR?page=browse", 
+        "acro": "E-CFR", 
+        "name": "Electronic Code of Federal Regulations"
+    }, 
     "ECMC": {
         "note": "nonprofit student-loan guarantor and debt collector for Dept. of Eductaion", 
         "link_label": "website", 
@@ -978,13 +1020,6 @@
         "link": "", 
         "acro": "ECOA", 
         "name": "Equal Credit Opportunity Act,"
-    }, 
-    "E-CFR": {
-        "note": "", 
-        "link_label": "", 
-        "link": "", 
-        "acro": "E-CFR", 
-        "name": "Electronic Code of Federal Regulations"
     }, 
     "ECPA": {
         "note": "", 
@@ -1118,6 +1153,13 @@
         "link": "", 
         "acro": "FAR", 
         "name": "Federal Acquisition Regulation"
+    }, 
+    "FBO": {
+        "note": "a federal web-based system for connecting agencies and vendors", 
+        "link_label": "website", 
+        "link": "https://www.fbo.gov/", 
+        "acro": "FBO", 
+        "name": "Federal Business Opportunities"
     }, 
     "FCRA": {
         "note": "", 
@@ -1280,6 +1322,13 @@
         "acro": "FISMA", 
         "name": "Federal Information Security Management Act"
     }, 
+    "FITARA": {
+        "note": "a law to improve IT management at federal agencies", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FITARA", 
+        "name": "Federal Information Technology Acquisition Reform Act"
+    }, 
     "FJ": {
         "note": "cfgov refresh project", 
         "link_label": "beta site", 
@@ -1299,7 +1348,7 @@
         "link_label": "", 
         "link": "", 
         "acro": "FLEC", 
-        "name": "Financial Literacy & Education Commission"
+        "name": "Financial Literacy Education Commission"
     }, 
     "FLID": {
         "note": "", 
@@ -1420,6 +1469,13 @@
         "acro": "FTP", 
         "name": "File Transfer Protocol"
     }, 
+    "FYSA": {
+        "note": "a cautionary acronym often used in the military", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FYSA", 
+        "name": "for your situational awareness"
+    }, 
     "FYQ1": {
         "note": "", 
         "link_label": "", 
@@ -1447,6 +1503,13 @@
         "link": "", 
         "acro": "GFE", 
         "name": "Good Faith Estimate"
+    }, 
+    "GHE": {
+        "note": "usually a reference to CFPB's internal GitHub website", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "GHE", 
+        "name": "GitHub Enterprise"
     }, 
     "GIS": {
         "note": "", 
@@ -1854,6 +1917,13 @@
         "acro": "JA", 
         "name": "Jenkins Automation"
     }, 
+    "JAC": {
+        "note": "a framework for writing Jenkins deployment jobs in groovy instead of using the Jenkins UI", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "JAC", 
+        "name": "Jenkins as code"
+    }, 
     "JSON": {
         "note": "a data transfer format that stores data as javascript objects", 
         "link_label": "", 
@@ -2007,6 +2077,20 @@
         "link": "", 
         "acro": "MEDIC", 
         "name": "Master Entity Database - Institution Profile"
+    }, 
+    "MITM": {
+        "note": "a type of attack on a web connection in which an attacker monitors or alters a session", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MITM", 
+        "name": "man-in-the-middle"
+    }, 
+    "MITMA": {
+        "note": "a type of attack on a web connection in which an attacker monitors or alters a session", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "MITMA", 
+        "name": "man-in-the-middle attack"
     }, 
     "MLA": {
         "note": "", 
@@ -3044,6 +3128,13 @@
         "acro": "SA&E", 
         "name": "Security Architecture and Engineering team"
     }, 
+    "SAE": {
+        "note": "part of T&I", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SAE", 
+        "name": "Security Architecture and Engineering team"
+    }, 
     "SAFE": {
         "note": "", 
         "link_label": "", 
@@ -3338,6 +3429,13 @@
         "acro": "SPV", 
         "name": "special purpose vehicle"
     }, 
+    "SRE": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "SRE", 
+        "name": "site reliability engineering"
+    }, 
     "SRM": {
         "note": "a cybersecurity term", 
         "link_label": "", 
@@ -3449,6 +3547,13 @@
         "link": "", 
         "acro": "TEP", 
         "name": "Technical Evaluation Panel"
+    }, 
+    "TIA": {
+        "note": "Security team activity for determining impact / level of implementation effort for any technology that is new or being upgraded. Seems to be a Project or Change Request activity ", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TIA", 
+        "name": "Technology Impact Assessment"
     }, 
     "TILA": {
         "note": "", 
@@ -3597,12 +3702,26 @@
         "acro": "webTA", 
         "name": "Web Time and Attendance System"
     }, 
+    "WFF": {
+        "note": "CFPB initiative for excellence in culture and management", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WFF", 
+        "name": "Workforce of the Future"
+    }, 
     "WIP": {
         "note": "", 
         "link_label": "", 
         "link": "", 
         "acro": "WIP", 
         "name": "work in progress"
+    }, 
+    "WSDL": {
+        "note": "an XML-based interface language for describing the features of a web service", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "WSDL", 
+        "name": "Web Services Description Language"
     }, 
     "WYSIWYG": {
         "note": "a WYSIWYG editor shows you what your type will look like", 

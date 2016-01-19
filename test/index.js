@@ -43,6 +43,10 @@ function processEmojis(error, response, body) {
                 '".';
           console.error(msg);
           process.exit(1);
+        } else if (isAMerge) {
+          console.log('✓ Commit ' + commit.sha().substring(0, 8) + ' ignored because it\'s merging a PR.');
+        } else {
+          console.log('✓ Commit ' + commit.sha().substring(0, 8) + ' passes: "' + msg + '" is a valid GitHub emoji.');
         }
 
       });
