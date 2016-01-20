@@ -11,7 +11,7 @@
     "hubot-ambush": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-hangouts": "^0.7.1",
-    "hubot-google-images": "^0.1.4",
+    "hubot-google-images": "^0.1.5",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
