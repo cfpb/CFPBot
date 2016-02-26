@@ -3682,7 +3682,7 @@
         "name": "Treasury Learning Management System"
     }, 
     "TMG": {
-        "note": "security proxy server that protects CFPB web servers", 
+        "note": "security proxy server", 
         "link_label": "", 
         "link": "", 
         "acro": "TMG", 
