@@ -3681,6 +3681,13 @@
         "acro": "TLMS", 
         "name": "Treasury Learning Management System"
     }, 
+    "TMG": {
+        "note": "security proxy server that protects CFPB web servers", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TMG", 
+        "name": "Threat Management Gateway"
+    }, 
     "TOS": {
         "note": "", 
         "link_label": "", 
