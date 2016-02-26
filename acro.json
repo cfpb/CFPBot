@@ -1616,11 +1616,11 @@
         "acro": "HELOC", 
         "name": "home equity line of credit"
     }, 
-    "HIPPA": {
+    "HIPAA": {
         "note": "law covering privacy of medical records", 
         "link_label": "", 
         "link": "", 
-        "acro": "HIPPA", 
+        "acro": "HIPAA", 
         "name": "Health Insurance Portability and Accountability Act"
     }, 
     "HMDA": {
