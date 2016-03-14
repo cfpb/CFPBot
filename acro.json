@@ -888,10 +888,17 @@
         "acro": "DIG", 
         "name": "Data Intake Group"
     }, 
+    "DISA": {
+        "note": "a combat support agency", 
+        "link_label": "website", 
+        "link": "http://www.disa.mil/", 
+        "acro": "DISA", 
+        "name": "Defense Information Systems Agency"
+    }, 
     "DISA STIG": {
-        "note": "a cybersecurity term", 
-        "link_label": "", 
-        "link": "", 
+        "note": "a cybersecurity document specifying device security configuratons", 
+        "link_label": "web page", 
+        "link": "http://iase.disa.mil/stigs/Pages/index.aspx", 
         "acro": "DISA STIG", 
         "name": "Defense Information Systems Agency Security Technical Implementation Guide"
     }, 
@@ -1448,6 +1455,13 @@
         "acro": "FPDS", 
         "name": "Federal Procurement Data System"
     }, 
+    "FPO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FPO", 
+        "name": "for position only OR the D&D team formerly known as Retirement"
+    }, 
     "FRB": {
         "note": "", 
         "link_label": "website", 
@@ -1602,6 +1616,13 @@
         "acro": "HELOC", 
         "name": "home equity line of credit"
     }, 
+    "HIPAA": {
+        "note": "law covering privacy of medical records", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HIPAA", 
+        "name": "Health Insurance Portability and Accountability Act"
+    }, 
     "HMDA": {
         "note": "overseen by the CFPB", 
         "link_label": "web page", 
@@ -1713,6 +1734,13 @@
         "link": "", 
         "acro": "ICR", 
         "name": "inflight change request"
+    }, 
+    "IDI": {
+        "note": "User-testing term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IDI", 
+        "name": "in-depth interview"
     }, 
     "IDIQ": {
         "note": "a type of federal purchase contract", 
@@ -2322,6 +2350,13 @@
         "link": "http://www.nltk.org/", 
         "acro": "NLTK", 
         "name": "Natural Language Toolkit"
+    }, 
+    "NO FEAR": {
+        "note": "", 
+        "link_label": "web page", 
+        "link": "https://www.treasury.gov/No-Fear-Act/Pages/default.aspx", 
+        "acro": "NO FEAR", 
+        "name": "Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002"
     }, 
     "NMLS": {
         "note": "", 
@@ -3248,11 +3283,11 @@
         "name": "system and communications protection"
     }, 
     "SCA": {
-        "note": "a cybersecurity term", 
+        "note": "a cybersecurity team responsible for conducting security assessments", 
         "link_label": "", 
         "link": "", 
         "acro": "SCA", 
-        "name": "security controls assessment"
+        "name": "Security Controls Assessment"
     }, 
     "SCADA": {
         "note": "a cybersecurity term", 
@@ -3562,6 +3597,13 @@
         "acro": "STD", 
         "name": "short-term disability"
     }, 
+    "STIG": {
+        "note": "a cybersecurity document specifying device security configuratons", 
+        "link_label": "web page", 
+        "link": "http://iase.disa.mil/stigs/Pages/index.aspx", 
+        "acro": "STIG", 
+        "name": "Security Technical Implementation Guide"
+    }, 
     "T&C": {
         "note": "a T&I working group to improve communications", 
         "link_label": "", 
@@ -3638,6 +3680,13 @@
         "link": "", 
         "acro": "TLMS", 
         "name": "Treasury Learning Management System"
+    }, 
+    "TMG": {
+        "note": "security proxy server", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TMG", 
+        "name": "Threat Management Gateway"
     }, 
     "TOS": {
         "note": "", 
