@@ -1,4 +1,4 @@
 #!/bin/sh
 
 source ./.env
-./bin/hubot --adapter xmpp --name $HUBOT_NAME --alias /
+./bin/hubot --adapter mattermost --name $MATTERMOST_HUBOT_USERNAME --alias /
