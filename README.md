@@ -7,8 +7,9 @@ CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 ### Install Node.js
 
 1. `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.25.2/install.sh | bash`
-1. `nvm install 0.10`
-1. `nvm use 0.10`
+1. `nvm install 4`
+1. `nvm use 4`
+1. `nvm alias default 4`
 
 ### Install Redis on your CentOS machine
 
