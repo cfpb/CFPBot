@@ -22,6 +22,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
+    "hubot-spotify-meta": "^1.0.1",
     "hubot-twitter-search": "^1.0.3",
     "hubot-xmpp": "^0.2.1",
     "hubot-youtube": "^1.0.1",
