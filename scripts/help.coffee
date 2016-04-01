@@ -1,4 +1,4 @@
-# Description: 
+# Description:
 #   Generates help commands for Hubot.
 #
 # Commands:
@@ -14,8 +14,10 @@
 helpContents = (name, commands) ->
 
   """
+<!DOCTYPE html>
 <html>
   <head>
+  <meta charset="utf-8">
   <title>#{name} Help</title>
   <style type="text/css">
     body {
@@ -51,33 +53,35 @@ helpContents = (name, commands) ->
   """
 
 module.exports = (robot) ->
-  robot.respond /help\s*(.*)?$/i, (msg) ->
-    cmds = robot.helpCommands()
+  robot.respond /help(?:\s+(.*))?$/i, (msg) ->
+    cmds = renamedHelpCommands(robot)
+    filter = msg.match[1]
 
-    if msg.match[1]
+    if filter
       cmds = cmds.filter (cmd) ->
-        cmd.match new RegExp(msg.match[1], 'i')
-
+        cmd.match new RegExp(filter, 'i')
       if cmds.length == 0
-        msg.send "No available commands match #{msg.match[1]}"
+        msg.send "No available commands match #{filter}"
         return
+
     emit = cmds.join "\n"
 
-    unless robot.name.toLowerCase() is 'hubot'
-      emit = emit.replace /hubot/ig, robot.name
-
-    msg.send msg.message.user.name + ", PM sent"
-
-    msg.message.user.type = "chat"
     msg.send emit
+    msg.send "Full list of commands: " + process.env.HUBOT_HELP_LINK
 
   robot.router.get "/#{robot.name}/help", (req, res) ->
-    cmds = robot.helpCommands().map (cmd) ->
+    cmds = renamedHelpCommands(robot).map (cmd) ->
       cmd.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
 
     emit = "<p>#{cmds.join '</p><p>'}</p>"
 
-    emit = emit.replace /hubot/ig, "<b>#{robot.name}</b>"
+    emit = emit.replace new RegExp("#{robot.name}", "ig"), "<b>#{robot.name}</b>"
 
     res.setHeader 'content-type', 'text/html'
     res.end helpContents robot.name, emit
+
+renamedHelpCommands = (robot) ->
+  robot_name = robot.alias or robot.name
+  help_commands = robot.helpCommands().map (command) ->
+    command.replace /^hubot/i, robot_name
+  help_commands.sort()
