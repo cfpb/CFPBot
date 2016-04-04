@@ -37,7 +37,7 @@
     "node": "0.12.x"
   },
   "scripts": {
-    "start": "forever -c /bin/sh ./start.sh",
+    "start": "./start.sh",
     "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && ./bin/hubot --adapter mattermost --name $MATTERMOST_HUBOT_USERNAME --alias CFPBot"
   }
 }
