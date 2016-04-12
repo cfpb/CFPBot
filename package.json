@@ -18,6 +18,7 @@
     "hubot-heroku-keepalive": "1.0.2",
     "hubot-maps": "0.0.2",
     "hubot-mattermost": "^1.0.7",
+    "hubot-plusplus": "^1.2.3",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
