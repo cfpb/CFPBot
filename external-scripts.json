@@ -1,4 +1,8 @@
 [
   "hubot-google-hangouts",
-  "hubot-ambush"
+  "hubot-ambush",
+  "hubot-google-images",
+  "hubot-spotify-meta",
+  "hubot-guys",
+  "hubot-plusplus"
 ]

@@ -333,7 +333,14 @@
         "link_label": "", 
         "link": "", 
         "acro": "CARD", 
-        "name": "Credit Card Responsibility Disclosure Act"
+        "name": "Credit Card Accountability Responsibility and Disclosure Act of 2009"
+    }, 
+    "CARD ACT": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "CARD Act", 
+        "name": "Credit Card Accountability Responsibility and Disclosure Act of 2009"
     }, 
     "CBA": {
         "note": "", 
@@ -693,7 +700,7 @@
         "name": "certified regulatory compliance manager"
     }, 
     "CRM": {
-        "note": "", 
+        "note": "CFPB is using Salesforce to handle this business task", 
         "link_label": "", 
         "link": "", 
         "acro": "CRM", 
@@ -790,6 +797,13 @@
         "acro": "D&D", 
         "name": "Design and Development"
     }, 
+    "DAP": {
+        "note": "a digitalgov analytics service for federal websites", 
+        "link_label": "website", 
+        "link": "https://www.digitalgov.gov/services/dap/", 
+        "acro": "DAP", 
+        "name": "Digital Analytics Program"
+    }, 
     "DBA": {
         "note": "", 
         "link_label": "", 
@@ -874,10 +888,17 @@
         "acro": "DIG", 
         "name": "Data Intake Group"
     }, 
+    "DISA": {
+        "note": "a combat support agency", 
+        "link_label": "website", 
+        "link": "http://www.disa.mil/", 
+        "acro": "DISA", 
+        "name": "Defense Information Systems Agency"
+    }, 
     "DISA STIG": {
-        "note": "a cybersecurity term", 
-        "link_label": "", 
-        "link": "", 
+        "note": "a cybersecurity document specifying device security configuratons", 
+        "link_label": "web page", 
+        "link": "http://iase.disa.mil/stigs/Pages/index.aspx", 
         "acro": "DISA STIG", 
         "name": "Defense Information Systems Agency Security Technical Implementation Guide"
     }, 
@@ -1034,6 +1055,13 @@
         "link": "", 
         "acro": "ECT", 
         "name": "enterprise collaboration tools"
+    }, 
+    "EDWOSB": {
+        "note": "an SBA classification for small businesses competing for federal contracts", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "EDWOSB", 
+        "name": "Economically disadvantaged women-owned small business"
     }, 
     "EEOC": {
         "note": "", 
@@ -1427,6 +1455,13 @@
         "acro": "FPDS", 
         "name": "Federal Procurement Data System"
     }, 
+    "FPO": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "FPO", 
+        "name": "for position only OR the D&D team formerly known as Retirement"
+    }, 
     "FRB": {
         "note": "", 
         "link_label": "website", 
@@ -1581,6 +1616,13 @@
         "acro": "HELOC", 
         "name": "home equity line of credit"
     }, 
+    "HIPAA": {
+        "note": "law covering privacy of medical records", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "HIPAA", 
+        "name": "Health Insurance Portability and Accountability Act"
+    }, 
     "HMDA": {
         "note": "overseen by the CFPB", 
         "link_label": "web page", 
@@ -1692,6 +1734,13 @@
         "link": "", 
         "acro": "ICR", 
         "name": "inflight change request"
+    }, 
+    "IDI": {
+        "note": "User-testing term", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "IDI", 
+        "name": "in-depth interview"
     }, 
     "IDIQ": {
         "note": "a type of federal purchase contract", 
@@ -1937,6 +1986,13 @@
         "link": "", 
         "acro": "KBYO", 
         "name": "Know Before You Owe"
+    }, 
+    "KPI": {
+        "note": "", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "KPI", 
+        "name": "key performance indicators"
     }, 
     "L&D": {
         "note": "a team in the Office of Human Capital", 
@@ -2295,6 +2351,13 @@
         "acro": "NLTK", 
         "name": "Natural Language Toolkit"
     }, 
+    "NO FEAR": {
+        "note": "", 
+        "link_label": "web page", 
+        "link": "https://www.treasury.gov/No-Fear-Act/Pages/default.aspx", 
+        "acro": "NO FEAR", 
+        "name": "Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002"
+    }, 
     "NMLS": {
         "note": "", 
         "link_label": "website", 
@@ -2405,7 +2468,7 @@
         "link_label": "", 
         "link": "", 
         "acro": "OCFO", 
-        "name": "Office of Chief Financial Officer"
+        "name": "Office of the Chief Financial Officer"
     }, 
     "OCIO": {
         "note": "", 
@@ -2498,6 +2561,13 @@
         "acro": "OIG", 
         "name": "Office of Inspector General"
     }, 
+    "OLA": {
+        "note": "part of the External Affairs Division", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OLA", 
+        "name": "Office of Legislative Affairs"
+    }, 
     "OJT": {
         "note": "", 
         "link_label": "", 
@@ -2560,6 +2630,13 @@
         "link": "", 
         "acro": "OS", 
         "name": "operating system"
+    }, 
+    "OSA": {
+        "note": "a part of Consumer Education and Engagement", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "OSA", 
+        "name": "Office of Servicemember Affairs"
     }, 
     "OSE": {
         "note": "oversees nationwide bank supervision and examinations", 
@@ -2792,6 +2869,13 @@
         "acro": "PMP", 
         "name": "Performance Management Program"
     }, 
+    "POAM": {
+        "note": "a cybersecurity document", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "POAM", 
+        "name": "plan of action and milestones"
+    }, 
     "POA&M": {
         "note": "a cybersecurity document", 
         "link_label": "", 
@@ -2804,7 +2888,7 @@
         "link_label": "", 
         "link": "", 
         "acro": "POC", 
-        "name": "proof of concept OR point of contact"
+        "name": "proof of concept OR point of contact OR person of color"
     }, 
     "POM": {
         "note": "an efficient construct for writing Selenium browser tests", 
@@ -3199,11 +3283,11 @@
         "name": "system and communications protection"
     }, 
     "SCA": {
-        "note": "a cybersecurity term", 
+        "note": "a cybersecurity team responsible for conducting security assessments", 
         "link_label": "", 
         "link": "", 
         "acro": "SCA", 
-        "name": "security controls assessment"
+        "name": "Security Controls Assessment"
     }, 
     "SCADA": {
         "note": "a cybersecurity term", 
@@ -3387,6 +3471,13 @@
         "acro": "SORN", 
         "name": "System of Records Notice"
     }, 
+    "SOW": {
+        "note": "a federal document spelling out needs and requirements of a procurement request", 
+        "link_label": "web page", 
+        "link": "http://www.gsa.gov/portal/content/195713", 
+        "acro": "SOW", 
+        "name": "Statement of Work"
+    }, 
     "SP": {
         "note": "a cybersecurity term", 
         "link_label": "", 
@@ -3506,6 +3597,13 @@
         "acro": "STD", 
         "name": "short-term disability"
     }, 
+    "STIG": {
+        "note": "a cybersecurity document specifying device security configuratons", 
+        "link_label": "web page", 
+        "link": "http://iase.disa.mil/stigs/Pages/index.aspx", 
+        "acro": "STIG", 
+        "name": "Security Technical Implementation Guide"
+    }, 
     "T&C": {
         "note": "a T&I working group to improve communications", 
         "link_label": "", 
@@ -3582,6 +3680,13 @@
         "link": "", 
         "acro": "TLMS", 
         "name": "Treasury Learning Management System"
+    }, 
+    "TMG": {
+        "note": "security proxy server", 
+        "link_label": "", 
+        "link": "", 
+        "acro": "TMG", 
+        "name": "Threat Management Gateway"
     }, 
     "TOS": {
         "note": "", 

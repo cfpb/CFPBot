@@ -5,29 +5,33 @@
   "author": "CFPB <tech@cfpb.gov>",
   "description": "CFPB's chat bot",
   "dependencies": {
-    "cheerio": "^0.19.0",
-    "chrono-node": "^1.0.6",
-    "hubot": "~2.16.0",
+    "cheerio": "^0.20.0",
+    "chrono-node": "^1.2.1",
+    "hubot": "~2.18.0",
     "hubot-ambush": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-hangouts": "^0.7.1",
-    "hubot-google-images": "^0.1.4",
-    "hubot-google-translate": "^0.1.0",
-    "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-google-images": "^0.2.6",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-guys": "0.0.1",
+    "hubot-help": "^0.1.3",
+    "hubot-heroku-keepalive": "1.0.2",
     "hubot-maps": "0.0.2",
+    "hubot-mattermost": "^1.0.7",
+    "hubot-plusplus": "^1.2.3",
     "hubot-pugme": "^0.1.0",
-    "hubot-redis-brain": "0.0.2",
-    "hubot-rules": "^0.1.0",
-    "hubot-scripts": "^2.5.16",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
+    "hubot-spotify-meta": "^1.0.1",
     "hubot-twitter-search": "^1.0.3",
-    "hubot-xmpp": "^0.1.12",
-    "hubot-youtube": "^0.1.2",
-    "lodash": "^3.9.3",
-    "moment": "^2.10.3",
+    "hubot-xmpp": "^0.2.1",
+    "hubot-youtube": "^1.0.1",
+    "lodash": "^4.6.1",
+    "moment": "^2.12.0",
     "npm-registry": "^0.1.13",
-    "request": "~2.58.0",
+    "request": "~2.69.0",
     "semver": "^5.1.0",
     "underscore": "^1.8.3"
   },
@@ -35,9 +39,7 @@
     "node": "0.12.x"
   },
   "scripts": {
-    "test": "#node test"
-  },
-  "devDependencies": {
-    "request": "^2.58.0"
+    "start": "./start.sh",
+    "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && ./bin/hubot --adapter mattermost --name $MATTERMOST_HUBOT_USERNAME --alias CFPBot"
   }
 }
