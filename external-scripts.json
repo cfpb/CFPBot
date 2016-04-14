@@ -1,10 +1,10 @@
 [
-  "hubot-google-hangouts",
-  "hubot-ambush",
-  "hubot-google-images",
-  "hubot-spotify-meta",
-  "hubot-guys",
-  "hubot-plusplus",
   "hubot-acrogov",
-  "hubot-jira-lookup"
+  "hubot-ambush",
+  "hubot-google-hangouts",
+  "hubot-google-images",
+  "hubot-guys",
+  "hubot-jira-lookup",
+  "hubot-plusplus",
+  "hubot-spotify-meta"
 ]
