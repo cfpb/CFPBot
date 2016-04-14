@@ -37,6 +37,7 @@
 #   hubot lumberg <text> | <text> - Lumberg
 #   hubot guaranteeit <text> - I Guarantee It
 #   hubot boatcat <text> | <text> - I should buy a boat cat.
+#   hubot oprah <text> | <text> - Oprah You get a car meme
 #
 # Author:
 #   bobanj
@@ -50,6 +51,10 @@ module.exports = (robot) ->
     memeGenerator msg, 'LPTw8A', msg.match[1], msg.match[2], (url) ->
       msg.send url
 
+  robot.respond /oprah (.*)\s* \|\s*(.*)/i, (msg) ->
+    memeGenerator msg, '1706zQ', msg.match[1], msg.match[2], (url) ->
+      msg.send url
+      
   robot.respond /wonka (.*)\s* \|\s*(.*)/i, (msg) ->
     memeGenerator msg, 'Mp3Hwg', msg.match[1], msg.match[2], (url) ->
       msg.send url
