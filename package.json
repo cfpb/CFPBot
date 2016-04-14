@@ -17,6 +17,7 @@
     "hubot-guys": "0.0.1",
     "hubot-help": "^0.1.3",
     "hubot-heroku-keepalive": "1.0.2",
+    "hubot-jira-lookup": "git://github.com/jivesoftware/hubot-jira-lookup.git#840ff7444479324fbdb423c1c7f7630b4c886f5d",
     "hubot-maps": "0.0.2",
     "hubot-mattermost": "^1.0.7",
     "hubot-plusplus": "^1.2.3",
