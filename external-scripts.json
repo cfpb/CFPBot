@@ -7,4 +7,6 @@
   "hubot-jira-lookup",
   "hubot-plusplus",
   "hubot-spotify-meta"
+  "hubot-aws",
+  "hubot-auth"
 ]
