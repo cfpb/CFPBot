@@ -1,8 +1,13 @@
 [
-  "hubot-google-hangouts",
+  "hubot-acrogov",
   "hubot-ambush",
+  "hubot-google-hangouts",
   "hubot-google-images",
-  "hubot-spotify-meta",
   "hubot-guys",
-  "hubot-plusplus"
+  "hubot-jira-lookup",
+  "hubot-plusplus",
+  "hubot-remind-her",
+  "hubot-spotify-meta"
+  "hubot-aws",
+  "hubot-auth"
 ]
