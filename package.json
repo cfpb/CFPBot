@@ -11,7 +11,7 @@
     "hubot-acrogov": "^2.0.0",
     "hubot-ambush": "0.0.3",
     "hubot-auth": "^1.2.0",
-    "hubot-aws": "git+ssh://git@github.com/vickumar1981/hubot-aws.git",
+    "hubot-aws": "vickumar1981/hubot-aws",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-hangouts": "^0.7.1",
     "hubot-google-images": "^0.2.6",
