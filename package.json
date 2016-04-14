@@ -8,7 +8,7 @@
     "cheerio": "^0.20.0",
     "chrono-node": "^1.2.1",
     "hubot": "~2.18.0",
-    "hubot-acrogov": "^1.0.0",
+    "hubot-acrogov": "^2.0.0",
     "hubot-ambush": "0.0.3",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-hangouts": "^0.7.1",
