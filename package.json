@@ -22,6 +22,7 @@
     "hubot-jira-lookup": "git://github.com/jivesoftware/hubot-jira-lookup.git#840ff7444479324fbdb423c1c7f7630b4c886f5d",
     "hubot-maps": "0.0.2",
     "hubot-mattermost": "^1.0.7",
+    "hubot-matteruser": "^1.0.6",
     "hubot-plusplus": "^1.2.3",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
@@ -45,6 +46,6 @@
   },
   "scripts": {
     "start": "./start.sh",
-    "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && ./bin/hubot --adapter mattermost --name $MATTERMOST_HUBOT_USERNAME --alias CFPBot"
+    "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && ./bin/hubot --adapter matteruser --name $MATTERMOST_HUBOT_USERNAME --alias $MATTERMOST_HUBOT_USERNAME"
   }
 }
