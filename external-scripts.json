@@ -9,5 +9,6 @@
   "hubot-remind-her",
   "hubot-spotify-meta",
   "hubot-aws",
-  "hubot-auth"
+  "hubot-auth",
+  "hubot-eavesdrop"
 ]
