@@ -47,6 +47,6 @@
   },
   "scripts": {
     "start": "./start.sh",
-    "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && ./bin/hubot --adapter matteruser --name $MATTERMOST_HUBOT_USERNAME --alias $MATTERMOST_HUBOT_USERNAME"
+    "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && ./bin/hubot --adapter mattermost --name $MATTERMOST_HUBOT_USERNAME --alias CFPBot"
   }
 }
