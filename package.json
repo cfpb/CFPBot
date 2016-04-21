@@ -13,6 +13,7 @@
     "hubot-auth": "^1.2.0",
     "hubot-aws": "vickumar1981/hubot-aws",
     "hubot-diagnostics": "0.0.1",
+    "hubot-eavesdrop": "^1.0.0",
     "hubot-google-hangouts": "^0.7.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
@@ -22,6 +23,7 @@
     "hubot-jira-lookup": "git://github.com/jivesoftware/hubot-jira-lookup.git#840ff7444479324fbdb423c1c7f7630b4c886f5d",
     "hubot-maps": "0.0.2",
     "hubot-mattermost": "^1.0.7",
+    "hubot-matteruser": "^1.0.6",
     "hubot-plusplus": "^1.2.3",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
@@ -36,6 +38,7 @@
     "lodash": "^4.6.1",
     "moment": "^2.12.0",
     "npm-registry": "^0.1.13",
+    "quick-gist": "^1.2.0",
     "request": "~2.69.0",
     "semver": "^5.1.0",
     "underscore": "^1.8.3"
