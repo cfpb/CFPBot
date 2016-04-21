@@ -3,6 +3,8 @@
 #
 # Commands:
 #   hubot show users - Display all users that hubot knows about
+#   hubot show user <user_name> - Display the information hubot knows about <user_name>
+#   hubot show me - Display the information hubot knows about you
 #   hubot show storage - Display the contents that are persisted in the brain
 
 
@@ -22,4 +24,11 @@ module.exports = (robot) ->
       response += "\n"
 
     msg.send response
+
+  robot.respond /show user (.*)/i, (msg) ->
+    user = robot.brain.userForName(msg.match[1])
+    msg.send Util.inspect(user, {depth: null})
+
+  robot.respond /show me$/i, (msg) ->
+    msg.send Util.inspect(msg.message.user, {depth: null})
 
