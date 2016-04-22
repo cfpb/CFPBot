@@ -7,7 +7,7 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "chrono-node": "^1.2.1",
-    "hubot": "~2.18.0",
+    "hubot": "cfpb/hubot",
     "hubot-acrogov": "^2.0.0",
     "hubot-ambush": "0.0.3",
     "hubot-auth": "^1.2.0",
@@ -47,7 +47,6 @@
     "node": "0.12.x"
   },
   "scripts": {
-    "start": "./start.sh",
-    "load": "curl -O $HUBOT_ENV_LOCATION && source ./.env && touch ./.env_private && source ./.env_private && ./bin/hubot --adapter mattermost --name $MATTERMOST_HUBOT_USERNAME --alias ."
+    "start": "./start.sh"
   }
 }
