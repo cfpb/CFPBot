@@ -4,3 +4,4 @@ node_modules
 .env
 .env_private
 ec2.json
+ec2-user-data.txt

@@ -31,4 +31,3 @@ module.exports = (robot) ->
 
   robot.respond /show me$/i, (msg) ->
     msg.send Util.inspect(msg.message.user, {depth: null})
-
