@@ -5,6 +5,7 @@
   "author": "CFPB <tech@cfpb.gov>",
   "description": "CFPB's chat bot",
   "dependencies": {
+    "catops-teams": "^1.0.0",
     "cheerio": "^0.20.0",
     "chrono-node": "^1.2.1",
     "hubot": "cfpb/hubot",

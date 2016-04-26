@@ -10,5 +10,6 @@
   "hubot-spotify-meta",
   "hubot-aws",
   "hubot-auth",
-  "hubot-eavesdrop"
+  "hubot-eavesdrop",
+  "catops-teams"
 ]
