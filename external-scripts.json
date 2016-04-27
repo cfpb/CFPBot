@@ -11,5 +11,7 @@
   "hubot-aws",
   "hubot-auth",
   "hubot-eavesdrop",
-  "catops-teams"
+  "hubot-github-identity",
+  "catops-teams",
+  "catops-keys"
 ]

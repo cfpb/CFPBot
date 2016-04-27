@@ -5,6 +5,7 @@
   "author": "CFPB <tech@cfpb.gov>",
   "description": "CFPB's chat bot",
   "dependencies": {
+    "catops-keys": "^1.0.0",
     "catops-teams": "^1.0.0",
     "cheerio": "^0.20.0",
     "chrono-node": "^1.2.1",
@@ -15,6 +16,7 @@
     "hubot-aws": "vickumar1981/hubot-aws",
     "hubot-diagnostics": "0.0.1",
     "hubot-eavesdrop": "^1.0.0",
+    "hubot-github-identity": "^0.10.0",
     "hubot-google-hangouts": "^0.7.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
