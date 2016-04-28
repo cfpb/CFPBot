@@ -16,4 +16,12 @@ if [ -f "$ENV_PRIVATE_FILE" ]; then
    source $ENV_PRIVATE_FILE
 fi
 
-./bin/hubot --adapter matteruser --alias $MATTERMOST_HUBOT_USERNAME,.,please,bot,uhh,uhhh
+if [ "$HUBOT_PRODUCTION" = true ]; then
+  echo ">> HUBOT_PRODUCTION is set to true. Bot will connect to the live chat server."
+  echo ">> This machine's local redis server will still be used."
+  ./bin/hubot --adapter matteruser
+else
+  echo ">> HUBOT_PRODUCTION is not set to true. Bot will not connect to the live chat server."
+  echo ">> Feel free to fool around and run test commands."
+  ./bin/hubot
+fi

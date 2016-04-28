@@ -1,18 +1,8 @@
 [
   "redis-brain.coffee",
-  "shipit.coffee",
-  "availability.coffee",
   "uptime.coffee",
-  "isup.coffee",
-  "email.coffee",
-  "fml.coffee",
-  "spotify.coffee",
-  "reload.coffee",
   "applause.coffee",
   "excuse.coffee",
   "janky.coffee",
-  "reload.coffee",
-  "update.coffee",
-  "kittens.coffee",
-  "spotify.coffee"
+  "update.coffee"
 ]
