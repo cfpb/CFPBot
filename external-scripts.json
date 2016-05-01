@@ -12,6 +12,7 @@
   "hubot-auth",
   "hubot-eavesdrop",
   "hubot-github-identity",
+  "hubot-brain-inspect",
   "catops-teams",
   "catops-keys"
 ]
