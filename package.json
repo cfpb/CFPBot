@@ -13,7 +13,7 @@
     "hubot-acrogov": "^2.0.0",
     "hubot-ambush": "0.0.3",
     "hubot-auth": "^1.2.0",
-    "hubot-aws": "vickumar1981/hubot-aws",
+    "hubot-aws": "cfpb/hubot-aws",
     "hubot-brain-inspect": "0.0.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-eavesdrop": "^1.0.0",
