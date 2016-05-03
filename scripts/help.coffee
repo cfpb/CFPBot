@@ -56,8 +56,6 @@ gist = require('quick-gist')
 
 module.exports = (robot) ->
   robot.respond /help(?:\s+(.*))?$/i, (msg) ->
-    cache = ''
-    url = ''
     cmds = renamedHelpCommands(robot)
     filter = msg.match[1]
 
@@ -70,13 +68,13 @@ module.exports = (robot) ->
 
     cmds = cmds.join "\n"
 
-    if cache == cmds
-      msg.send "Full list of commands: " + url
+    if cmds.length < 1000
+      msg.send "```\n#{cmds}\n```"
     else
-      cache = cmds
       gist {content: cmds}, (err, resp, data) ->
-        url = data.html_url
-        msg.send "Full list of commands: " + url
+        if filter
+          return msg.send "Here are '#{filter}' commands: #{data.html_url}"
+        msg.send "Full list of commands: #{data.html_url}"
 
 
 renamedHelpCommands = (robot) ->
