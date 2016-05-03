@@ -17,8 +17,10 @@ if [ -f "$ENV_PRIVATE_FILE" ]; then
 fi
 
 if [ "$HUBOT_PRODUCTION" = true ]; then
+  # Remove all node modules, Hubot will install fresh copies on start up.
+  rm -rf node_modules/*
   echo ">> HUBOT_PRODUCTION is set to true. Bot will connect to the live chat server."
-  echo ">> This machine's local redis server will still be used."
+  echo ">> This machine's local redis server will be used."
   ./bin/hubot --adapter matteruser
 else
   echo ">> HUBOT_PRODUCTION is not set to true. Bot will not connect to the live chat server."
