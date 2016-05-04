@@ -13,5 +13,6 @@
   "hubot-github-identity",
   "hubot-brain-inspect",
   "catops-teams",
-  "catops-keys"
+  "catops-keys",
+  "hubot-github-management"
 ]
