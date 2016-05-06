@@ -76,6 +76,16 @@ module.exports = (robot) ->
           return msg.send "Here are '#{filter}' commands: #{data.html_url}"
         msg.send "Full list of commands: #{data.html_url}"
 
+  robot.router.get "/#{robot.name}/help", (req, res) ->
+    cmds = renamedHelpCommands(robot).map (cmd) ->
+      cmd.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+
+    emit = "<p>#{cmds.join '</p><p>'}</p>"
+
+    emit = emit.replace new RegExp("#{robot.name}", "ig"), "<b>#{robot.name}</b>"
+
+    res.setHeader 'content-type', 'text/html'
+    res.end helpContents robot.name, emit
 
 renamedHelpCommands = (robot) ->
   help_commands = robot.helpCommands().map (command) ->
