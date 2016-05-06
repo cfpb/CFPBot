@@ -2,6 +2,7 @@
 
 ENV_FILE="./.env"
 ENV_PRIVATE_FILE="./.env_private"
+ENV_TEST_FILE="./.env_test"
 
 if [ -f "$ENV_FILE" ]; then
    source $ENV_FILE
@@ -12,8 +13,9 @@ if [ -n "$HUBOT_ENV_LOCATION" ]; then
   source $ENV_FILE
 fi
 
-if [ -f "$ENV_PRIVATE_FILE" ]; then
-   source $ENV_PRIVATE_FILE
+if [ -f "$ENV_TEST_FILE" ]; then
+  echo ">> Loading test variables from $ENV_TEST_FILE"
+  source $ENV_TEST_FILE
 fi
 
 if [ "$HUBOT_PRODUCTION" = true ]; then
@@ -24,6 +26,7 @@ if [ "$HUBOT_PRODUCTION" = true ]; then
   echo ">> This machine's local redis server will be used."
   ./bin/hubot --adapter matteruser
 else
+
   echo ">> HUBOT_PRODUCTION is not set to true. Bot will not connect to the live chat server."
   echo ">> Feel free to fool around and run test commands."
   ./bin/hubot
