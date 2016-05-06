@@ -3,5 +3,6 @@ node_modules
 .hubot_history
 .env
 .env_private
+.env_test
 ec2.json
 ec2-user-data.txt
