@@ -15,6 +15,7 @@
     "hubot-auth": "^1.2.0",
     "hubot-aws": "cfpb/hubot-aws",
     "hubot-brain-inspect": "0.0.1",
+    "hubot-capital-framework": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-eavesdrop": "^1.0.0",
     "hubot-github-identity": "^0.10.0",
