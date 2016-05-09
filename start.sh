@@ -13,6 +13,11 @@ if [ -n "$HUBOT_ENV_LOCATION" ]; then
   source $ENV_FILE
 fi
 
+if [ -f "$ENV_PRIVATE_FILE" ]; then
+  echo ">> Loading private variables from $ENV_PRIVATE_FILE"
+  source $ENV_PRIVATE_FILE
+fi
+
 if [ -f "$ENV_TEST_FILE" ]; then
   echo ">> Loading test variables from $ENV_TEST_FILE"
   source $ENV_TEST_FILE
