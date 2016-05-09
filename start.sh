@@ -23,15 +23,18 @@ if [ -f "$ENV_TEST_FILE" ]; then
   source $ENV_TEST_FILE
 fi
 
-if [ "$HUBOT_PRODUCTION" = true ]; then
+if [ "$USER" = "ec2-user" ]; then
   # Remove all Hubot node modules, Hubot will install fresh copies on start up.
+  echo ">> Trashing all Hubot node modules so that we're guaranteed fresh copies."
   rm -rf node_modules/hubot-*
   rm -rf node_modules/catops-*
+fi
+
+if [ "$HUBOT_PRODUCTION" = true ]; then
   echo ">> HUBOT_PRODUCTION is set to true. Bot will connect to the live chat server."
   echo ">> This machine's local redis server will be used."
   ./bin/hubot --adapter matteruser
 else
-
   echo ">> HUBOT_PRODUCTION is not set to true. Bot will not connect to the live chat server."
   echo ">> Feel free to fool around and run test commands."
   ./bin/hubot
