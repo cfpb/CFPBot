@@ -7,13 +7,13 @@
   "hubot-jira-lookup",
   "hubot-plusplus",
   "hubot-spotify-meta",
-  "hubot-aws",
+  "hubot-aws-cfpb",
   "hubot-auth",
   "hubot-eavesdrop",
   "hubot-github-identity",
   "hubot-brain-inspect",
-  "catops-teams",
-  "catops-keys",
+  "hubot-squads",
+  "hubot-keys",
   "hubot-github-management",
   "hubot-capital-framework"
 ]
