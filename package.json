@@ -28,6 +28,7 @@
     "hubot-maps": "0.0.2",
     "hubot-mattermost": "1.0.7",
     "hubot-matteruser": "1.0.6",
+    "hubot-murder": "^1.0.0",
     "hubot-plusplus": "1.2.5",
     "hubot-pugme": "0.1.0",
     "hubot-redis-brain": "0.0.3",

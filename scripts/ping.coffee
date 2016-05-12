@@ -16,9 +16,3 @@ module.exports = (robot) ->
 
   robot.respond /TIME$/i, (msg) ->
     msg.send "Server time is: #{new Date()}"
-
-  robot.respond /(DIE|RESTART|REBOOT)$/i, (msg) ->
-    msg.send "BRB, restarting. :feelsgood:"
-    setTimeout () ->
-      process.exit 0
-    , 1000
