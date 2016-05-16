@@ -10,7 +10,6 @@
   "hubot-aws-cfpb",
   "hubot-auth",
   "hubot-eavesdrop",
-  "hubot-github-identity",
   "hubot-brain-inspect",
   "hubot-squads",
   "hubot-keys",
