@@ -14,5 +14,6 @@
   "hubot-keys",
   "hubot-github-management",
   "hubot-capital-framework",
-  "hubot-murder"
+  "hubot-murder",
+  "hubot-standup-alarm"
 ]
