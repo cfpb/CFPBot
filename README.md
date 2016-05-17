@@ -16,14 +16,13 @@ See [INSTALL](INSTALL.md) for complete installation steps.
 ## Contributing
 
 **IMPORTANT:** All git commits to this repo should have messages consisting of a single [emoji code](http://www.emoji-cheat-sheet.com/). 
-Please select an emoji that is most applicable to the edits you have made to the codebase. 
+Please select an emoji that is most applicable to the edits you have made to the codebase.
 PRs that fail to comply with this request will be rejected.
 
-Please read our general [contributing guidelines](CONTRIBUTING.md). 
+Please read our [contributing guidelines](CONTRIBUTING.md) to learn how to add functionality to CFPBot.
 
 ## Open source licensing info
 
 1. [TERMS](TERMS.md)
 2. [LICENSE](LICENSE)
 3. [CFPB Source Code Policy](https://github.com/cfpb/source-code-policy/)
-
