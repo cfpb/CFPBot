@@ -11,7 +11,7 @@
     "hubot-ambush": "0.0.3",
     "hubot-auth": "1.2.0",
     "hubot-aws-cfpb": "^1.0.0",
-    "hubot-brain-inspect": "0.0.1",
+    "hubot-brain-inspect": "contolini/hubot-brain-inspect",
     "hubot-capital-framework": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-eavesdrop": "^1.5.0",
