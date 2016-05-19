@@ -24,10 +24,8 @@ if [ -f "$ENV_TEST_FILE" ]; then
 fi
 
 if [ "$USER" = "ec2-user" ]; then
-  # Remove all Hubot node modules, Hubot will install fresh copies on start up.
-  echo ">> Trashing all Hubot node modules so that we're guaranteed fresh copies."
-  rm -rf node_modules/hubot-*
-  rm -rf node_modules/catops-*
+  echo ">> Running `npm update` so that we're guaranteed fresh copies of our hubot scripts."
+  npm update
 fi
 
 if [ "$HUBOT_PRODUCTION" = true ]; then
