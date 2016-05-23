@@ -16,6 +16,5 @@
   "hubot-capital-framework",
   "hubot-murder",
   "hubot-standup-alarm",
-  "hubot-onboarding",
   "hubot-redis-brain"
 ]
