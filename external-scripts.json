@@ -3,5 +3,6 @@
   "hubot-brain-inspect",
   "hubot-redis-brain",
   "hubot-diagnostics",
+  "hubot-murder",
   "hubot-onboarding"
 ]
