@@ -9,7 +9,7 @@ if [ -f "$ENV_FILE" ]; then
 fi
 
 if [ -n "$HUBOT_ENV_LOCATION" ]; then
-  curl -O $HUBOT_ENV_LOCATION
+  curl -o ./.env $HUBOT_ENV_LOCATION
   source $ENV_FILE
 fi
 
