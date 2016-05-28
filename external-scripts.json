@@ -1,21 +1,7 @@
 [
-  "hubot-acrogov",
-  "hubot-google-hangouts",
-  "hubot-google-images",
-  "hubot-guys",
-  "hubot-jira-lookup",
-  "hubot-plusplus",
-  "hubot-spotify-meta",
-  "hubot-aws-cfpb",
   "hubot-auth",
-  "hubot-eavesdrop",
   "hubot-brain-inspect",
-  "hubot-squads",
-  "hubot-keys",
-  "hubot-github-management",
-  "hubot-capital-framework",
-  "hubot-murder",
-  "hubot-standup-alarm",
   "hubot-redis-brain",
-  "hubot-diagnostics"
+  "hubot-diagnostics",
+  "hubot-onboarding"
 ]

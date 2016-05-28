@@ -1,6 +1,6 @@
-# CFPBot [![Build Status](https://travis-ci.org/cfpb/CFPBot.svg)](https://travis-ci.org/cfpb/CFPBot)
+# Bradbot [![Build Status](https://travis-ci.org/cfpb/CFPBot.svg)](https://travis-ci.org/cfpb/CFPBot)
 
-CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
+CFPB's onboarding bot based on [CFPBot](https://github.com/cfpb/CFPBot/).
 
 ## Installation
 
@@ -15,7 +15,7 @@ See [INSTALL](INSTALL.md) for complete installation steps.
 
 ## Contributing
 
-**IMPORTANT:** All git commits to this repo should have messages consisting of a single [emoji code](http://www.emoji-cheat-sheet.com/). 
+**IMPORTANT:** All git commits to this repo should have messages consisting of a single [emoji code](http://www.emoji-cheat-sheet.com/).
 Please select an emoji that is most applicable to the edits you have made to the codebase.
 PRs that fail to comply with this request will be rejected.
 
