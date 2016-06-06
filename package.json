@@ -26,7 +26,7 @@
     "hubot-jira-lookup": "git://github.com/jivesoftware/hubot-jira-lookup.git#840ff7444479324fbdb423c1c7f7630b4c886f5d",
     "hubot-keys": "^2.0.0",
     "hubot-maps": "0.0.2",
-    "hubot-matteruser": "contolini/hubot-matteruser#v1",
+    "hubot-matteruser": "^3.1.0",
     "hubot-murder": "^1.0.0",
     "hubot-onboarding": "^1.0.0",
     "hubot-plusplus": "1.2.5",
