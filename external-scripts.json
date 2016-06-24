@@ -17,5 +17,6 @@
   "hubot-murder",
   "hubot-standup-alarm",
   "hubot-redis-brain",
-  "hubot-diagnostics"
+  "hubot-diagnostics",
+  "hubot-new-relic-alerts"
 ]
