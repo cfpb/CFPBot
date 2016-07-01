@@ -15,5 +15,9 @@
   "hubot-github-management",
   "hubot-capital-framework",
   "hubot-murder",
-  "mattermost-slashbot"
+  "mattermost-slashbot",
+  "hubot-standup-alarm",
+  "hubot-redis-brain",
+  "hubot-diagnostics",
+  "hubot-new-relic-alerts"
 ]
