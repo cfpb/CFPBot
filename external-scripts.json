@@ -19,5 +19,6 @@
   "hubot-standup-alarm",
   "hubot-redis-brain",
   "hubot-diagnostics",
-  "hubot-new-relic-alerts"
+  "hubot-new-relic-alerts",
+  "mattermost-slashbot"
 ]
