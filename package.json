@@ -43,6 +43,7 @@
     "hubot-xmpp": "0.2.3",
     "hubot-youtube": "1.0.2",
     "lodash": "4.12.0",
+    "mattermost-slashbot": "1.0.0",
     "moment": "2.13.0",
     "npm-registry": "0.1.13",
     "quick-gist": "^1.0.0",
