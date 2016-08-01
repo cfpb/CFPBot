@@ -20,5 +20,6 @@
   "hubot-redis-brain",
   "hubot-diagnostics",
   "hubot-new-relic-alerts",
-  "mattermost-slashbot"
+  "mattermost-slashbot",
+  "hubot-lgtm"
 ]
