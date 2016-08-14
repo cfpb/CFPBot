@@ -17,7 +17,7 @@ module.exports = (robot) ->
     return
 
   Registry = require('npm-registry')
-  npm = new Registry
+  npm = new Registry({registry: 'npmjs'})
   semver = require('semver')
 
   pingNpm = setInterval () ->
