@@ -27,7 +27,7 @@
     "hubot-keys": "^2.0.0",
     "hubot-lgtm": "^1.0.0",
     "hubot-maps": "0.0.2",
-    "hubot-matteruser": "^3.1.0",
+    "hubot-matteruser": "~3.1.0",
     "hubot-murder": "^1.0.0",
     "hubot-new-relic-alerts": "^1.0.0",
     "hubot-plusplus": "1.2.5",
