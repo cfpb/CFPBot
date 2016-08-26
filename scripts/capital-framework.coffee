@@ -16,16 +16,15 @@ module.exports = (robot) ->
   if !process.env.HUBOT_CF_ROOM
     return
 
-  Registry = require('npm-registry')
-  npm = new Registry({registry: 'npmjs'})
-  semver = require('semver')
+  request = require 'request'
+  semver = require 'semver'
 
   pingNpm = setInterval () ->
     try
-      npm.packages.details 'capital-framework', (err, data) ->
-        return robot.logger.error err if err
+      request 'https://registry.npmjs.org/capital-framework/', (err, response, body) ->
+        return if err or response.statusCode != 200
         old = robot.brain.get('latest-cf') or '999.999.999'
-        knew = data[0].latest.version
+        knew = Object.keys(JSON.parse(body).versions).pop()
         if semver.gt(knew, old)
           msg = 'Version ' + knew + ' of Capital Framework was just released. ' +
                 'https://github.com/cfpb/capital-framework/blob/master/CHANGELOG.md'
