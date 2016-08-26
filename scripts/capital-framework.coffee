@@ -17,17 +17,19 @@ module.exports = (robot) ->
     return
 
   Registry = require('npm-registry')
-  npm = new Registry
+  npm = new Registry({registry: 'npmjs'})
   semver = require('semver')
 
   pingNpm = setInterval () ->
-    npm.packages.details 'capital-framework', (err, data) ->
-      old = robot.brain.get('latest-cf') or '999.999.999'
-      knew = data[0].latest.version
-      if semver.gt(knew, old)
-        msg = 'Version ' + knew + ' of Capital Framework was just released. ' +
-              'https://github.com/cfpb/capital-framework/blob/master/CHANGELOG.md'
-        robot.messageRoom process.env.HUBOT_CF_ROOM, msg
-      robot.brain.set 'latest-cf', knew
-      return
-  , 60000
+    try
+      npm.packages.details 'capital-framework', (err, data) ->
+        return robot.logger.error err if err
+        old = robot.brain.get('latest-cf') or '999.999.999'
+        knew = data[0].latest.version
+        if semver.gt(knew, old)
+          msg = 'Version ' + knew + ' of Capital Framework was just released. ' +
+                'https://github.com/cfpb/capital-framework/blob/master/CHANGELOG.md'
+          robot.messageRoom process.env.HUBOT_CF_ROOM, msg
+        robot.brain.set 'latest-cf', knew
+    catch error
+  , 180000
