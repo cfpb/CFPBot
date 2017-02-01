@@ -21,5 +21,6 @@
   "hubot-diagnostics",
   "hubot-new-relic-alerts",
   "mattermost-slashbot",
-  "hubot-lgtm"
+  "hubot-lgtm",
+  "hubot-thankfulness"
 ]
