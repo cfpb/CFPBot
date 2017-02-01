@@ -40,6 +40,7 @@
     "hubot-spotify-meta": "^1.0.0",
     "hubot-squads": "^2.0.0",
     "hubot-standup-alarm": "0.1.0",
+    "hubot-thankfulness": "1.0.1",
     "hubot-twitter-search": "1.0.3",
     "hubot-xmpp": "0.2.3",
     "hubot-youtube": "1.0.2",
