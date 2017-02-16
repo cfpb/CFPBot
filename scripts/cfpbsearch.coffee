@@ -49,7 +49,6 @@ module.exports = (robot) ->
     else
       search = getSearch(msg)
       nextPage = search.page + 1
-      msg.reply "Returning page #{nextPage} for search term [#{search.term}] using sources #{search.sources}"
       postSearch(msg, search.term, search.sources, nextPage)
 
   # tester for buildFilter
@@ -77,11 +76,13 @@ module.exports = (robot) ->
   hasSearch = (msg) ->
     return getSearch(msg).hasOwnProperty("term")
 
+  # the main search and reply function
   postSearch = (msg, term, sources, page=1) ->
     searchSources = buildFilter(sources)
     saveSearch(msg, term, sources, page)
 
-    msg.reply "Searching #{sources} for #{term}"
+    if page == 1
+      msg.send "Searching #{sources} for #{term}. Any results will be sent via PM."
 
     searchObj = {
       fields: ["url", "title",  "source"],
@@ -98,7 +99,6 @@ module.exports = (robot) ->
 
     data = JSON.stringify(searchObj)
 
-#    console.log(data)
     pageSize = 20
     from = (pageSize*page) - pageSize
     searchUrl = "#{process.env.HUBOT_SEARCH_URL}/search/search/_search?size=#{pageSize}&from=#{from}"
@@ -113,20 +113,18 @@ module.exports = (robot) ->
       result = null
       try
         result = JSON.parse body
-#        msg.send "Got result:"
-#        msg.send result
-#        msg.send "Body was #{body}"
+        totalPages = Math.ceil(result.hits.total / pageSize)
 
-        # force a PM
         if result.hits.hits.length
-          msg.reply "Sending PM"
-          msg.message.user.type = "chat"
-          resp = ""
+          resp = "#{result.hits.total} Results. Returning page #{page} of #{totalPages} for search term [#{term}] using sources #{sources}\n\n"
           (resp += "#{hit.fields.title[0]} : #{hit.fields.url[0]} \n" for hit in result.hits.hits)
-          msg.send resp
-          msg.message.user.type = "groupchat"
+
+          if totalPages > page
+            resp += "\n\nType `search next` for more results"
+
+          robot.messageRoom msg.message.user.name, resp
         else
-          msg.reply "No results found"
+          msg.send "No results found"
 
       catch error
         msg.send "Ran into an error processing results"
