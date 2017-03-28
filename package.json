@@ -33,6 +33,7 @@
     "hubot-plusplus": "1.2.5",
     "hubot-pugme": "0.1.0",
     "hubot-redis-brain": "0.0.3",
+    "hubot-remind-advanced": "0.0.5",
     "hubot-remind-her": "0.4.1",
     "hubot-rules": "0.1.1",
     "hubot-scripts": "2.17.1",
