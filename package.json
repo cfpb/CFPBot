@@ -39,6 +39,7 @@
     "hubot-scripts": "2.17.1",
     "hubot-shipit": "0.2.0",
     "hubot-spotify-meta": "^1.0.0",
+    "hubot-sqs": "^1.0.0",
     "hubot-squads": "^2.0.0",
     "hubot-standup-alarm": "0.1.0",
     "hubot-thankfulness": "1.0.1",

@@ -23,5 +23,6 @@
   "mattermost-slashbot",
   "hubot-lgtm",
   "hubot-thankfulness",
-  "hubot-remind-advanced"
+  "hubot-remind-advanced",
+  "hubot-sqs"
 ]
