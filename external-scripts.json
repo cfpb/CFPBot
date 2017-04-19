@@ -22,7 +22,5 @@
   "hubot-new-relic-alerts",
   "mattermost-slashbot",
   "hubot-lgtm",
-  "hubot-thankfulness",
-  "hubot-remind-advanced",
-  "hubot-sqs"
+  "hubot-thankfulness"
 ]
