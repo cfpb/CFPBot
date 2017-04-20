@@ -20,6 +20,7 @@
   "hubot-redis-brain",
   "hubot-diagnostics",
   "hubot-new-relic-alerts",
+  "hubot-newrelic2-cfpb",
   "mattermost-slashbot",
   "hubot-lgtm",
   "hubot-thankfulness"

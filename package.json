@@ -30,6 +30,7 @@
     "hubot-matteruser": "github:contolini/hubot-matteruser#fix-v1-dep",
     "hubot-murder": "^1.0.0",
     "hubot-new-relic-alerts": "^1.0.0",
+    "hubot-newrelic2-cfpb": "https://github.com/cfpb/hubot-newrelic2-cfpb.git",
     "hubot-plusplus": "1.2.5",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "0.1.1",
