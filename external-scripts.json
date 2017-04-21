@@ -23,5 +23,6 @@
   "hubot-newrelic2-cfpb",
   "mattermost-slashbot",
   "hubot-lgtm",
-  "hubot-thankfulness"
+  "hubot-thankfulness",
+  "hubot-sqs"
 ]
