@@ -29,7 +29,6 @@
     "hubot-maps": "0.0.2",
     "hubot-matteruser": "github:contolini/hubot-matteruser#fix-v1-dep",
     "hubot-murder": "^1.0.0",
-    "hubot-new-relic-alerts": "^1.0.0",
     "hubot-newrelic2-cfpb": "cfpb/hubot-newrelic2-cfpb",
     "hubot-plusplus": "1.2.5",
     "hubot-redis-brain": "0.0.3",
