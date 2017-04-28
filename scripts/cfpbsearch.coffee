@@ -127,8 +127,8 @@ module.exports = (robot) ->
           msg.send "No results found"
 
       catch error
-        msg.send "Ran into an error processing results"
-        msg.send "Body was #{body}"
-        msg.send "Error was #{error}"
+        msg.send "Ran into an error processing results :( Check the bot's log."
+        robot.logger.error "Error processing search results."
+        robot.logger.error body
+        robot.logger.error error
         return
-
