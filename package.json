@@ -27,7 +27,7 @@
     "hubot-keys": "^2.0.0",
     "hubot-lgtm": "^1.0.0",
     "hubot-maps": "0.0.2",
-    "hubot-matteruser": "github:contolini/hubot-matteruser#fix-v1-dep",
+    "hubot-matteruser": "3.7.3",
     "hubot-murder": "^1.0.0",
     "hubot-newrelic2-cfpb": "cfpb/hubot-newrelic2-cfpb",
     "hubot-plusplus": "1.2.5",
