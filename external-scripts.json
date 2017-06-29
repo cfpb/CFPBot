@@ -23,5 +23,7 @@
   "mattermost-slashbot",
   "hubot-lgtm",
   "hubot-thankfulness",
-  "hubot-sqs"
+  "hubot-sqs",
+  "hubot-reload-scripts",
+  "hubot-cfpb-indexer"
 ]
