@@ -6,3 +6,4 @@ node_modules
 .env_test
 ec2.json
 ec2-user-data.txt
+package-lock.json
