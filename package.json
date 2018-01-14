@@ -12,7 +12,7 @@
     "hubot-auth": "1.2.0",
     "hubot-aws-cfpb": "^1.0.0",
     "hubot-brain-inspect": "contolini/hubot-brain-inspect",
-    "hubot-capital-framework": "^1.0.0",
+    "hubot-capital-framework": "2.0.0",
     "hubot-cfpb-indexer": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-eavesdrop": "^2.0.0",
