@@ -1,6 +1,6 @@
 {
   "name": "cfpbot",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "CFPB <tech@cfpb.gov>",
   "description": "CFPB's chat bot",
   "dependencies": {
@@ -28,7 +28,7 @@
     "hubot-keys": "^2.0.0",
     "hubot-lgtm": "^2.0.1",
     "hubot-maps": "0.0.2",
-    "hubot-matteruser": "3.7.3",
+    "hubot-matteruser": "4.4.0",
     "hubot-murder": "^1.0.0",
     "hubot-newrelic2-cfpb": "cfpb/hubot-newrelic2-cfpb",
     "hubot-plusplus": "1.2.5",
