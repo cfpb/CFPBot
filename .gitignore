@@ -7,3 +7,4 @@ node_modules
 ec2.json
 ec2-user-data.txt
 package-lock.json
+reserve_map.json
