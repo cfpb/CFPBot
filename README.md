@@ -4,7 +4,7 @@ CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 
 ## Installation
 
-1. Install [Node.js](https://nodejs.org) (v4 or greater).
+1. Install [Node.js](https://nodejs.org) (v8 or greater).
 1. Install and start [Redis](http://redis.io/).
 1. Clone this repo.
 1. `cp .env.sample .env`
