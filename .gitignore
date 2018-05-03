@@ -8,3 +8,4 @@ ec2.json
 ec2-user-data.txt
 package-lock.json
 reserve_map.json
+cfgov-deployed.json
