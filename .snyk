@@ -1,0 +1,64 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.12.0
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - hubot-acrogov > hubot > express > connect > express-session > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > connect-timeout > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > compression > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > body-parser > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > finalhandler > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > morgan > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-index > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > send > debug:
+        patched: '2018-05-17T08:22:52.502Z'
+  'npm:ms:20170412':
+    - hubot-acrogov > hubot > express > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > send > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > send > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > connect-timeout > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > connect-timeout > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > compression > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > body-parser > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > express-session > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > finalhandler > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > morgan > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-index > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > debug > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-favicon > ms:
+        patched: '2018-05-17T08:22:52.502Z'
+  'npm:negotiator:20160616':
+    - hubot-acrogov > hubot > express > connect > compression > accepts > negotiator:
+        patched: '2018-05-17T08:22:52.502Z'
+    - hubot-acrogov > hubot > express > connect > serve-index > accepts > negotiator:
+        patched: '2018-05-17T08:22:52.502Z'
