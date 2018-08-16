@@ -85,16 +85,17 @@ module.exports = (robot) ->
       msg.send "Searching #{sources} for #{term}. Any results will be sent via PM."
 
     searchObj = {
-      fields: ["url", "title",  "source"],
-      highlight: {},
+      _source: true,
       query: {
-        filtered: {
-          filter: {and: [
-            {or: searchSources}
-          ]},
-          query: {match: {_all: term}}
+        bool: {
+          must: [
+            {match: {_type: sources}},
+            {match: {_all: term}}
+          ]
         }
-      }
+      },
+      stored_fields: ["url", "title",  "source"],
+      highlight: {}
     }
 
     data = JSON.stringify(searchObj)
@@ -117,7 +118,7 @@ module.exports = (robot) ->
 
         if result.hits.hits.length
           resp = "#{result.hits.total} Results. Returning page #{page} of #{totalPages} for search term [#{term}] using sources #{sources}\n\n"
-          (resp += "#{hit.fields.title[0]} : #{hit.fields.url[0]} \n" for hit in result.hits.hits)
+          (resp += "#{hit._source.title} : #{hit._source.url} \n" for hit in result.hits.hits)
 
           if totalPages > page
             resp += "\n\nType `search next` for more results"
