@@ -41,7 +41,7 @@ module.exports = (robot) ->
   # hate using this negative lookahead, but couldn't figure out a better way to get it to NOT trip this search
   # without this, searching specific sources such as hubot search wiki <term> would also trigger this response
   robot.respond /search (?!(next|wiki|readme|issue|ghpage|ghpages|gh-pages|help))\s?(.*)$/i, (msg) ->
-    postSearch(msg, msg.match[2], "wiki,readme,gh_page")
+    postSearch(msg, msg.match[2], "wiki,readme,gh_page,issue")
 
   robot.respond /search next$/i, (msg) ->
     if !hasSearch(msg)
@@ -50,14 +50,6 @@ module.exports = (robot) ->
       search = getSearch(msg)
       nextPage = search.page + 1
       postSearch(msg, search.term, search.sources, nextPage)
-
-  # tester for buildFilter
-  robot.respond /bftest (.*)$/i, (msg) ->
-    result = JSON.stringify(buildFilter(msg.match[1]))
-    msg.send "Filter result is #{result}"
-
-  buildFilter = (sources) ->
-    _.map sources.split(','), (item) ->  {type: {value:item}}
 
   # stores a user's search on the User object
   saveSearch = (msg, term, sources, page) ->
@@ -78,7 +70,6 @@ module.exports = (robot) ->
 
   # the main search and reply function
   postSearch = (msg, term, sources, page=1) ->
-    searchSources = buildFilter(sources)
     saveSearch(msg, term, sources, page)
 
     if page == 1
@@ -86,12 +77,12 @@ module.exports = (robot) ->
 
     searchObj = {
       _source: true,
+      stored_fields: ["url", "title", "source"],
+      highlight: {},
       query: {
         bool: {
-          must: [
-            {match: {_type: sources}},
-            {match: {_all: term}}
-          ]
+          filter: {"terms": {"_type": sources.split(",")}},
+          must: {match: {_all: term}}
         }
       },
       stored_fields: ["url", "title",  "source"],
