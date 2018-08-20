@@ -41,7 +41,7 @@ module.exports = (robot) ->
   # hate using this negative lookahead, but couldn't figure out a better way to get it to NOT trip this search
   # without this, searching specific sources such as hubot search wiki <term> would also trigger this response
   robot.respond /search (?!(next|wiki|readme|issue|ghpage|ghpages|gh-pages|help))\s?(.*)$/i, (msg) ->
-    postSearch(msg, msg.match[2], "wiki,readme,gh_page")
+    postSearch(msg, msg.match[2], "wiki,readme,gh_page,issue")
 
   robot.respond /search next$/i, (msg) ->
     if !hasSearch(msg)
