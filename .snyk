@@ -1,0 +1,221 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  'npm:debug:20170905':
+    - hubot-github-management > hubot > express > connect > morgan > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > send > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > send > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > connect-timeout > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > send > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > compression > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > express-session > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > finalhandler > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > body-parser > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-index > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > morgan > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > finalhandler > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > body-parser > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > finalhandler > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-index > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-index > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-static > send > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > body-parser > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > compression > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > express-session > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > express-session > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > connect-timeout > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > connect-timeout > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > compression > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > morgan > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-static > send > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > debug:
+        patched: '2019-07-10T21:24:54.616Z'
+  'npm:mime:20170907':
+    - hubot > express > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-static > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-static > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > serve-static > send > mime:
+        patched: '2019-07-10T21:24:54.616Z'
+  'npm:ms:20170412':
+    - hubot-github-management > hubot > express > connect > serve-favicon > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-favicon > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-favicon > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-static > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > compression > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-static > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-static > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > compression > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > connect-timeout > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > express-session > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > compression > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > body-parser > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > finalhandler > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-static > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > connect-timeout > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > morgan > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-index > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > connect-timeout > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > connect-timeout > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > express-session > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-static > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > body-parser > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-index > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-index > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > morgan > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > morgan > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > finalhandler > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > finalhandler > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > body-parser > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > express-session > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > connect-timeout > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > connect-timeout > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+  'npm:ms:20151024':
+    - hubot-github-identity > connect > serve-static > send > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > method-override > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > finalhandler > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > express-session > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > connect-timeout > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > compression > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > connect-timeout > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > debug > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > serve-static > send > ms:
+        patched: '2019-07-10T21:24:54.616Z'
+  'npm:negotiator:20160616':
+    - hubot > express > connect > compression > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot > express > connect > serve-index > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > compression > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > compression > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-acrogov > hubot > express > connect > serve-index > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-management > hubot > express > connect > serve-index > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > compression > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > errorhandler > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+    - hubot-github-identity > connect > serve-index > accepts > negotiator:
+        patched: '2019-07-10T21:24:54.616Z'
+  'npm:semver:20150403':
+    - npm-registry > semver:
+        patched: '2019-07-10T21:24:54.616Z'
+    - npm-registry > licenses > npm-registry > semver:
+        patched: '2019-07-10T21:24:54.616Z'
