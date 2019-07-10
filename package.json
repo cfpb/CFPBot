@@ -42,21 +42,25 @@
     "hubot-thankfulness": "1.0.1",
     "hubot-twitter-search": "1.0.3",
     "hubot-youtube": "1.0.2",
-    "lodash": "4.12.0",
+    "lodash": "4.17.12",
     "mattermost-slashbot": "^1.0.0",
-    "moment": "2.13.0",
+    "moment": "2.19.3",
     "npm-registry": "0.1.13",
     "quick-gist": "^1.0.0",
     "random-emoji": "1.0.2",
     "request": "2.84.0",
     "semver": "5.1.0",
     "shuffle-array": "1.0.1",
-    "underscore": "1.8.3"
+    "underscore": "1.8.3",
+    "snyk": "^1.192.6"
   },
   "engines": {
     "node": "0.12.x"
   },
   "scripts": {
-    "start": "./start.sh"
-  }
+    "start": "./start.sh",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
