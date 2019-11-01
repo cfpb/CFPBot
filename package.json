@@ -42,7 +42,7 @@
     "hubot-thankfulness": "1.0.1",
     "hubot-twitter-search": "1.0.3",
     "hubot-youtube": "1.0.2",
-    "lodash": "4.17.12",
+    "lodash": "4.17.15",
     "mattermost-slashbot": "^1.0.0",
     "moment": "2.19.3",
     "npm-registry": "0.1.13",
