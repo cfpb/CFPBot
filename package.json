@@ -10,7 +10,7 @@
     "hubot-acrogov": "^2.0.0",
     "hubot-ambush": "0.0.3",
     "hubot-auth": "1.2.0",
-    "hubot-aws-cfpb": "^1.0.0",
+    "hubot-aws-cfpb": "github:cfpb/hubot-aws-cfpb#main",
     "hubot-brain-inspect": "github:contolini/hubot-brain-inspect",
     "hubot-capital-framework": "^2.0.0",
     "hubot-cfpb-indexer": "^1.0.0",
