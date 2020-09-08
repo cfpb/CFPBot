@@ -8,7 +8,7 @@
 #   HUBOT_COLLAB_SEARCH_URL - the API endpoint
 #
 # Commands:
-#   hubot collab <id_or_url> - Attempts to find the name and owner for the given Google Drive ID / URL
+#   hubot gdrive <id_or_url> - Attempts to find the name and owner for the given Google Drive ID / URL
 
 #
 # Author:
@@ -18,8 +18,8 @@ module.exports = (robot) ->
   _  = require("underscore")
 
 
-  robot.respond /collab (.*)$/i, (msg) ->
-    postSearch(msg, msg.match[1])
+  robot.respond /(collab|gdrive) (.*)$/i, (msg) ->
+    postSearch(msg, msg.match[2])
 
 
   # the main search and reply function
