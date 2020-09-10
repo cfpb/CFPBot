@@ -49,7 +49,8 @@ module.exports = (robot) ->
           |-|-|
           | **Path**  | #{result.path}  |
           | **Name**  | **#{result.name}**  |
-          | **Owner** | #{result.owner} |"""
+          | **Owner** | #{result.owner} |
+          | **Help**  | [Google-to-O365 Mapping](#{process.env.HUBOT_COLLAB_HELP_DOC}) |"""
 
 
           msg.send resp
