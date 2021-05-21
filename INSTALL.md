@@ -32,7 +32,7 @@ and running `redis-cli ping`, which should return `PONG`.
 1. `git clone https://github.com/cfpb/CFPBot.git`
 1. `cd CFPBot`
 1. `cp .env.sample .env`
-1. Edit `.env` appropriately.
+1. Edit `.env` appropriately
 
 
 ## Installation on CentOS/RHEL 7
@@ -82,7 +82,7 @@ sudo yum install -y git
 1. `git clone https://github.com/cfpb/CFPBot.git`
 1. `cd CFPBot`
 1. `cp .env.sample .env`
-1. Edit `.env` appropriately.
+1. Edit `.env` appropriately
 
 
 ## Running CFPBot
@@ -90,24 +90,19 @@ sudo yum install -y git
 Run `npm start` to start the bot.
 It will not attempt connect to our live chat server unless `HUBOT_PRODUCTION` is set to `true`.
 
-Some plugins require environment variables to be set and may not behave as expected.
-Try `curl -O https://[secret-internal-repo]/.env` to pull down CFPB's `.env` file with all our secrets in it.
-
-You'll see some start up output and a prompt:
+You'll see some start up output (possibly including several errors and warnings
+if you didn't define everything in the `.env` file) and a prompt:
 
 ```
-[Sat Feb 28 2015 12:38:27 GMT+0000 (GMT)] INFO Using default redis on localhost:6379
+[Fri May 21 2021 15:15:39 GMT-0400 (Eastern Daylight Time)] INFO hubot-redis-brain: Using default redis on localhost:6379
 cfpbot>
 ```
 
-Then you can interact with CFPBot by typing commands such as `cfpbot help`.
+Then you can interact with CFPBot by typing commands such as `cfpbot ping`.
 
-```
-cfpbot> cfpbot help
-cfpbot animate me <query> - The same thing as `image me`, except adds [snip]
-cfpbot help - Displays all of the help commands that cfpbot knows about.
-...
-```
+Other commands will likely fail without more environment variables being set.
+CFPB employees can run `curl -O https://[secret-internal-repo]/.env`
+to pull down our CFPB-specific `.env` file with all our secrets in it.
 
 ### Scripting
 
