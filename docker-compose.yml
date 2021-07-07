@@ -1,0 +1,9 @@
+---
+version: '3'
+services:
+  cfpbot:
+    build: .
+    volumes:
+      - .:/app
+  redis:
+    image: "redis:latest"
