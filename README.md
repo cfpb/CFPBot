@@ -2,7 +2,7 @@
 
 CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 
-## Installation
+## Installation (Docker-less)
 
 1. Install [Node.js](https://nodejs.org) (v8 or greater).
 1. Install and start [Redis](http://redis.io/).
@@ -12,6 +12,15 @@ CFPB's internal chat bot built on [Hubot](http://hubot.github.com).
 1. `npm start`.
 
 See [INSTALL](INSTALL.md) for complete installation steps.
+
+## Installation using Docker
+
+1. Clone this repo.
+1. `cp .env.sample .env`
+1. Add `export REDIS_URL="redis://redis:6379"` to the end of `.env`
+1. Add or modify any other settings in `.env`
+1. Run `docker-compose up -d`
+1. Run `docker-compose run cfpbot start`
 
 ## Contributing
 
